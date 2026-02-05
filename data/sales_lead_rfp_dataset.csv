@@ -1,0 +1,1201 @@
+lead_id,industry,company_size,region,lead_source,rfp_received,technical_complexity,estimated_deal_value_usd,sales_cycle_days,response_time_hours,solution_fit_score,past_vendor_experience,rfp_win
+1,Banking,Mid,APAC,Website,0,4,219124,205,93,0.93,0,0
+2,Retail,Small,India,Website,0,1,188130,210,59,0.7,0,0
+3,Healthcare,Enterprise,Europe,Referral,0,2,116080,234,89,0.55,0,0
+4,Retail,Small,Europe,Referral,0,5,477310,199,14,0.57,1,0
+5,Retail,Small,APAC,Website,1,3,346399,155,44,0.59,0,1
+6,Manufacturing,Enterprise,APAC,Referral,1,2,145958,37,77,0.81,0,0
+7,Healthcare,Small,Europe,Partner,1,1,398742,97,52,0.62,0,0
+8,Healthcare,Enterprise,India,Marketing Campaign,0,2,234793,181,20,0.9,0,0
+9,Healthcare,Mid,Europe,Marketing Campaign,1,3,128623,102,22,0.96,0,0
+10,Retail,Enterprise,North America,Website,1,1,309531,94,92,0.54,0,1
+11,Banking,Mid,North America,Cold Call,1,4,162647,111,84,0.69,1,0
+12,Healthcare,Mid,APAC,Website,0,1,122260,154,25,0.37,0,0
+13,Retail,Enterprise,India,Referral,0,4,442859,48,27,0.44,0,0
+14,Manufacturing,Small,India,Cold Call,0,1,413316,213,46,0.59,1,0
+15,Banking,Enterprise,North America,Referral,1,3,463572,89,29,0.44,0,1
+16,Manufacturing,Small,Europe,Partner,0,3,411072,173,111,0.91,1,0
+17,Banking,Mid,APAC,Referral,0,1,441385,235,83,0.41,0,1
+18,Retail,Small,Europe,Partner,1,2,432020,142,109,0.62,1,0
+19,IT Services,Mid,Europe,Partner,1,3,176862,204,101,0.72,0,1
+20,Banking,Small,Europe,Referral,1,4,303132,155,107,0.78,1,0
+21,Manufacturing,Enterprise,India,Referral,0,4,348592,45,30,0.57,1,1
+22,Retail,Enterprise,North America,Partner,1,5,441722,144,18,0.91,0,0
+23,Banking,Enterprise,India,Cold Call,0,4,385574,117,69,0.7,0,0
+24,IT Services,Small,North America,Partner,0,5,228976,29,45,0.61,0,0
+25,IT Services,Mid,APAC,Marketing Campaign,0,1,470522,71,110,0.35,1,0
+26,Healthcare,Mid,APAC,Partner,0,1,415521,89,62,0.63,0,0
+27,Healthcare,Small,Europe,Cold Call,0,1,151041,48,94,0.87,0,0
+28,Manufacturing,Small,North America,Marketing Campaign,1,2,284548,117,69,0.73,0,1
+29,Banking,Mid,North America,Website,0,2,412205,210,75,0.88,0,0
+30,Banking,Mid,North America,Website,1,5,468521,89,26,0.65,0,1
+31,Healthcare,Mid,Europe,Cold Call,0,4,439199,43,96,0.38,1,1
+32,Banking,Mid,Europe,Partner,0,4,251356,208,68,0.31,0,0
+33,Banking,Small,APAC,Referral,0,1,180534,30,112,0.51,1,0
+34,IT Services,Small,India,Cold Call,0,3,291504,181,3,0.79,0,0
+35,Healthcare,Small,North America,Marketing Campaign,0,2,357801,91,90,0.85,0,0
+36,Retail,Enterprise,North America,Marketing Campaign,0,2,429503,51,50,0.51,0,0
+37,Healthcare,Small,India,Website,0,1,206544,95,71,0.65,0,1
+38,Retail,Small,North America,Marketing Campaign,0,2,256512,163,27,0.59,1,0
+39,IT Services,Small,Europe,Cold Call,0,1,250037,186,73,0.59,1,0
+40,Manufacturing,Enterprise,Europe,Marketing Campaign,1,5,464529,138,100,0.46,0,0
+41,Banking,Enterprise,North America,Cold Call,0,4,44160,33,28,0.4,0,1
+42,IT Services,Enterprise,Europe,Referral,1,3,278933,213,90,0.44,0,0
+43,Banking,Mid,Europe,Website,1,4,168253,116,19,0.34,1,0
+44,Manufacturing,Mid,North America,Marketing Campaign,1,4,155457,150,55,0.44,1,0
+45,Manufacturing,Small,APAC,Cold Call,1,5,354741,91,2,0.31,1,0
+46,IT Services,Enterprise,India,Partner,0,2,75641,208,62,0.74,0,1
+47,Manufacturing,Enterprise,Europe,Website,1,3,316391,55,113,0.52,0,1
+48,Retail,Mid,APAC,Referral,1,2,96673,217,104,0.98,0,0
+49,Manufacturing,Enterprise,Europe,Cold Call,0,4,241322,230,4,0.44,0,0
+50,Banking,Mid,Europe,Referral,0,1,277688,212,69,0.54,0,0
+51,Banking,Mid,India,Referral,0,4,256855,75,42,0.55,0,0
+52,Banking,Enterprise,Europe,Marketing Campaign,1,2,416491,40,38,0.31,0,0
+53,Banking,Enterprise,India,Marketing Campaign,1,4,246361,85,52,0.89,1,0
+54,Retail,Mid,India,Cold Call,0,1,73248,117,16,0.32,1,0
+55,Healthcare,Mid,India,Partner,0,5,306694,225,9,0.96,0,1
+56,IT Services,Small,APAC,Cold Call,0,2,325837,84,39,0.92,0,0
+57,Banking,Mid,North America,Partner,0,4,401068,121,115,0.67,0,1
+58,Manufacturing,Small,APAC,Referral,1,2,422857,171,84,0.68,1,0
+59,Banking,Mid,North America,Website,0,5,212821,121,57,0.76,1,0
+60,Manufacturing,Enterprise,North America,Cold Call,0,4,265949,117,48,0.57,1,1
+61,Manufacturing,Mid,India,Cold Call,0,4,352165,208,91,0.75,1,0
+62,Banking,Mid,Europe,Partner,1,2,287749,33,104,0.33,0,0
+63,Retail,Small,India,Referral,0,2,60713,82,11,0.34,0,0
+64,Manufacturing,Small,Europe,Referral,1,1,423606,200,103,0.62,0,0
+65,Manufacturing,Mid,North America,Partner,0,5,347547,84,79,0.68,0,1
+66,Banking,Small,India,Referral,0,1,330610,127,50,0.92,1,1
+67,Manufacturing,Small,Europe,Marketing Campaign,0,4,13981,71,42,0.37,0,0
+68,Manufacturing,Mid,APAC,Website,0,2,412709,179,84,0.88,0,0
+69,Banking,Enterprise,Europe,Cold Call,0,4,474434,75,31,0.45,0,0
+70,Banking,Mid,India,Website,1,4,474534,106,6,0.58,1,0
+71,IT Services,Small,APAC,Cold Call,1,3,387775,44,96,0.52,0,0
+72,Retail,Mid,Europe,Marketing Campaign,1,3,391382,213,72,0.58,0,0
+73,Retail,Mid,Europe,Referral,0,4,105335,215,84,0.41,0,0
+74,Manufacturing,Mid,Europe,Partner,1,2,117441,167,32,0.65,0,0
+75,Retail,Mid,Europe,Marketing Campaign,0,4,26984,239,53,0.86,0,0
+76,Manufacturing,Small,Europe,Website,0,3,135580,141,104,0.61,1,0
+77,IT Services,Mid,APAC,Partner,0,2,383460,207,89,0.64,0,0
+78,Banking,Mid,North America,Referral,0,4,425976,129,99,0.89,1,1
+79,Banking,Enterprise,APAC,Marketing Campaign,1,5,494745,20,24,0.79,0,1
+80,Banking,Mid,APAC,Partner,0,5,142596,32,49,0.64,0,0
+81,Retail,Mid,APAC,Marketing Campaign,0,4,128454,24,110,0.48,1,0
+82,IT Services,Mid,North America,Marketing Campaign,0,2,59402,106,41,0.92,0,1
+83,Retail,Mid,India,Referral,0,4,101656,153,7,0.7,0,1
+84,Retail,Enterprise,North America,Cold Call,0,4,75614,239,39,0.45,1,1
+85,IT Services,Mid,APAC,Partner,0,3,176963,207,42,0.49,0,0
+86,IT Services,Mid,Europe,Referral,1,5,363153,91,101,0.86,1,1
+87,IT Services,Mid,Europe,Marketing Campaign,1,3,443048,115,28,0.33,0,0
+88,IT Services,Mid,APAC,Referral,0,3,317980,98,76,0.99,0,0
+89,Banking,Mid,Europe,Cold Call,0,4,477169,207,70,0.39,0,1
+90,Healthcare,Enterprise,APAC,Partner,0,3,416578,66,58,0.86,1,0
+91,Healthcare,Mid,Europe,Cold Call,1,5,469961,209,18,0.58,0,1
+92,IT Services,Mid,North America,Website,0,3,441137,224,117,0.64,1,0
+93,Healthcare,Enterprise,India,Partner,0,5,473650,220,72,0.92,1,1
+94,Healthcare,Small,India,Cold Call,0,3,268789,45,92,0.59,0,0
+95,IT Services,Small,North America,Marketing Campaign,0,5,421778,233,48,0.68,0,1
+96,Healthcare,Small,North America,Partner,0,3,467726,159,80,0.33,0,0
+97,Retail,Enterprise,APAC,Partner,1,3,141049,197,111,0.3,0,0
+98,Manufacturing,Small,APAC,Referral,0,2,348551,124,14,0.47,0,0
+99,Manufacturing,Small,APAC,Marketing Campaign,0,5,279754,107,12,0.78,0,0
+100,IT Services,Small,Europe,Website,1,5,119381,178,110,0.38,1,0
+101,Banking,Small,APAC,Cold Call,1,5,496134,168,91,0.38,1,0
+102,IT Services,Small,North America,Referral,0,1,25791,67,87,0.59,1,0
+103,Banking,Mid,India,Cold Call,0,3,68047,159,93,0.75,1,0
+104,Manufacturing,Mid,Europe,Website,0,5,244898,100,25,0.8,0,0
+105,IT Services,Small,APAC,Website,1,1,471122,167,94,0.42,0,1
+106,Retail,Small,Europe,Partner,0,2,160737,16,74,0.36,1,0
+107,Healthcare,Small,Europe,Website,1,5,80246,100,107,0.96,0,0
+108,Banking,Small,APAC,Cold Call,1,5,206936,147,5,0.48,1,0
+109,Healthcare,Mid,Europe,Marketing Campaign,0,1,449667,18,114,0.9,0,0
+110,Healthcare,Mid,India,Marketing Campaign,0,3,244955,178,47,0.9,0,0
+111,IT Services,Small,North America,Partner,0,2,358292,20,19,0.84,1,0
+112,Healthcare,Mid,North America,Cold Call,0,5,55890,163,44,0.42,1,1
+113,Retail,Small,India,Cold Call,0,3,410010,219,81,0.88,0,0
+114,Healthcare,Enterprise,Europe,Website,1,2,42888,132,34,0.84,1,0
+115,IT Services,Mid,APAC,Cold Call,1,4,147821,103,94,0.72,0,0
+116,Retail,Mid,Europe,Referral,0,4,56531,168,104,0.54,0,0
+117,Manufacturing,Small,India,Website,1,2,387796,197,11,0.48,1,0
+118,Healthcare,Enterprise,Europe,Referral,0,1,292752,181,74,0.39,0,1
+119,IT Services,Small,North America,Partner,0,2,353130,226,60,0.66,0,0
+120,Manufacturing,Small,Europe,Marketing Campaign,0,2,472427,175,32,0.71,0,0
+121,Manufacturing,Small,India,Partner,0,1,356140,28,29,0.55,0,0
+122,Banking,Small,North America,Marketing Campaign,1,1,66017,70,61,0.63,0,1
+123,Retail,Enterprise,Europe,Partner,1,3,67676,95,4,0.55,0,0
+124,Healthcare,Enterprise,Europe,Cold Call,0,3,21560,163,119,0.75,0,0
+125,IT Services,Small,North America,Referral,0,1,457617,60,56,0.93,1,0
+126,Banking,Mid,APAC,Marketing Campaign,0,4,60468,158,15,0.41,0,0
+127,Retail,Enterprise,North America,Website,0,4,173535,30,59,0.57,1,1
+128,Banking,Enterprise,APAC,Referral,1,2,434879,134,90,0.4,0,0
+129,Retail,Mid,India,Website,1,5,471922,98,16,0.74,0,0
+130,Retail,Enterprise,India,Referral,0,2,461989,171,3,0.81,0,1
+131,Healthcare,Enterprise,North America,Referral,0,2,305267,234,25,0.95,0,0
+132,Retail,Mid,North America,Partner,0,5,104346,22,79,0.5,0,0
+133,Banking,Small,India,Marketing Campaign,0,1,150790,102,65,0.97,0,0
+134,Retail,Mid,APAC,Marketing Campaign,0,4,203709,145,113,0.34,0,0
+135,Healthcare,Enterprise,India,Referral,0,2,272172,231,72,0.72,0,0
+136,Healthcare,Small,North America,Cold Call,1,5,465586,33,101,0.34,0,1
+137,Banking,Enterprise,India,Cold Call,1,3,57599,111,115,0.93,0,0
+138,Manufacturing,Small,North America,Website,0,2,158469,80,25,0.67,0,0
+139,Manufacturing,Small,North America,Website,0,4,250270,93,28,0.77,1,1
+140,Retail,Small,India,Partner,0,1,55406,100,38,0.88,0,0
+141,IT Services,Small,APAC,Referral,0,2,319801,138,103,0.41,0,0
+142,Retail,Enterprise,Europe,Website,1,2,77560,216,95,0.33,0,0
+143,Banking,Enterprise,India,Website,0,5,114143,224,92,0.92,1,1
+144,Banking,Enterprise,Europe,Referral,0,3,154575,164,40,0.52,0,1
+145,Banking,Mid,India,Partner,0,3,64943,60,64,0.39,1,1
+146,Banking,Small,Europe,Website,1,1,85839,127,80,0.63,0,1
+147,Banking,Mid,APAC,Partner,0,4,92674,105,27,0.72,1,0
+148,Healthcare,Mid,APAC,Marketing Campaign,0,1,35345,155,66,0.32,1,0
+149,Manufacturing,Mid,India,Partner,0,2,259495,47,5,0.49,1,1
+150,Banking,Small,North America,Cold Call,1,2,60390,147,30,0.32,0,0
+151,IT Services,Mid,Europe,Cold Call,1,3,236113,232,2,0.59,0,0
+152,IT Services,Mid,North America,Partner,0,4,331701,91,108,0.93,0,0
+153,IT Services,Enterprise,North America,Cold Call,1,5,468270,169,51,0.99,0,0
+154,IT Services,Enterprise,North America,Marketing Campaign,1,4,11906,135,111,0.75,1,1
+155,Healthcare,Mid,APAC,Referral,1,2,443383,142,87,0.41,0,0
+156,IT Services,Mid,India,Cold Call,0,5,17961,92,12,0.93,0,0
+157,Banking,Mid,India,Cold Call,0,4,167212,166,75,0.66,0,1
+158,Retail,Small,APAC,Partner,0,4,391433,81,60,0.41,0,0
+159,IT Services,Enterprise,APAC,Marketing Campaign,1,5,199773,129,63,0.95,0,0
+160,Healthcare,Enterprise,India,Referral,0,2,349711,77,82,0.83,1,0
+161,Healthcare,Mid,North America,Partner,1,4,352808,127,37,0.81,0,1
+162,IT Services,Small,Europe,Partner,0,5,91199,108,57,0.8,0,1
+163,Retail,Small,Europe,Marketing Campaign,1,2,270928,62,112,0.44,0,1
+164,IT Services,Mid,Europe,Referral,1,5,109764,205,91,0.45,0,0
+165,Healthcare,Small,North America,Marketing Campaign,0,5,484434,220,113,0.78,0,0
+166,Manufacturing,Enterprise,India,Referral,1,4,132357,26,22,0.45,0,1
+167,Banking,Small,APAC,Marketing Campaign,0,2,352873,170,14,0.61,1,1
+168,Healthcare,Small,India,Partner,1,4,431777,186,10,0.85,1,0
+169,IT Services,Enterprise,North America,Partner,0,1,322712,235,12,0.85,1,0
+170,Banking,Mid,APAC,Website,0,1,381493,185,76,0.62,0,1
+171,IT Services,Small,North America,Cold Call,1,2,345446,159,71,0.85,1,1
+172,IT Services,Small,Europe,Marketing Campaign,0,5,498596,54,2,0.89,1,1
+173,Manufacturing,Small,Europe,Website,1,4,104968,191,119,0.76,1,1
+174,Banking,Mid,North America,Cold Call,0,4,170576,99,71,0.46,0,0
+175,Banking,Small,APAC,Marketing Campaign,0,2,388260,71,78,0.49,1,0
+176,Manufacturing,Mid,APAC,Referral,0,2,309290,101,87,0.52,1,0
+177,Healthcare,Enterprise,India,Cold Call,0,1,50297,98,57,0.38,1,0
+178,IT Services,Small,Europe,Partner,0,3,96394,206,32,0.49,0,0
+179,Retail,Enterprise,India,Website,0,2,399317,217,87,0.45,1,0
+180,IT Services,Enterprise,India,Cold Call,0,3,398086,199,38,0.62,1,0
+181,IT Services,Small,North America,Cold Call,0,2,471823,135,48,0.94,0,0
+182,Healthcare,Enterprise,North America,Partner,1,5,26939,216,92,0.37,0,0
+183,IT Services,Mid,India,Marketing Campaign,1,5,493683,88,115,0.8,1,0
+184,Manufacturing,Enterprise,Europe,Referral,0,1,453931,121,117,0.78,0,0
+185,Manufacturing,Mid,North America,Partner,1,1,316604,138,79,0.37,0,0
+186,Banking,Mid,India,Referral,0,3,469792,212,48,0.95,0,0
+187,Retail,Mid,India,Marketing Campaign,1,2,209294,114,70,0.7,1,1
+188,IT Services,Enterprise,India,Cold Call,1,4,415882,230,59,0.55,0,0
+189,IT Services,Mid,India,Referral,1,1,72119,218,37,0.83,0,0
+190,Healthcare,Mid,India,Website,0,4,176393,57,33,0.48,0,0
+191,Manufacturing,Enterprise,India,Website,1,4,404995,133,99,0.79,1,0
+192,Retail,Small,North America,Partner,0,2,154258,37,65,0.33,0,0
+193,Banking,Small,Europe,Marketing Campaign,1,3,419675,169,72,0.89,1,1
+194,Manufacturing,Small,India,Partner,0,2,489462,200,43,0.61,1,1
+195,Banking,Small,APAC,Partner,0,1,228827,51,49,0.75,0,0
+196,Healthcare,Small,North America,Partner,1,4,277201,148,75,0.45,0,0
+197,Healthcare,Enterprise,North America,Website,1,2,463879,79,115,0.77,0,1
+198,IT Services,Small,India,Website,0,2,159805,148,82,0.84,0,1
+199,Retail,Mid,North America,Partner,1,2,291301,192,31,0.63,0,0
+200,Banking,Small,India,Website,0,1,307174,36,22,0.73,1,0
+201,Manufacturing,Enterprise,Europe,Marketing Campaign,0,3,160685,119,61,0.62,1,0
+202,Healthcare,Enterprise,Europe,Partner,0,2,118612,102,14,0.93,0,0
+203,IT Services,Mid,North America,Website,0,1,387224,167,2,0.65,0,0
+204,IT Services,Enterprise,North America,Referral,0,4,355172,139,66,0.89,0,0
+205,Banking,Small,APAC,Partner,0,5,489498,93,112,0.86,0,0
+206,Healthcare,Enterprise,North America,Partner,0,1,146260,104,34,0.59,0,0
+207,Retail,Small,APAC,Marketing Campaign,0,5,248178,214,39,0.46,1,1
+208,Healthcare,Enterprise,Europe,Cold Call,0,2,269418,65,26,0.58,1,1
+209,Banking,Small,Europe,Cold Call,1,2,39680,230,27,0.88,0,0
+210,Banking,Mid,India,Marketing Campaign,1,1,244433,190,78,0.46,1,1
+211,Healthcare,Enterprise,Europe,Marketing Campaign,0,5,463335,116,60,0.67,0,0
+212,Banking,Small,APAC,Marketing Campaign,0,2,374446,212,93,0.86,1,1
+213,Healthcare,Small,North America,Cold Call,0,4,477616,120,34,0.55,0,0
+214,Manufacturing,Small,India,Marketing Campaign,0,3,458934,207,102,0.75,0,0
+215,Healthcare,Small,APAC,Website,1,3,46445,74,42,0.47,1,0
+216,Healthcare,Mid,North America,Partner,0,2,15796,60,31,0.38,0,0
+217,Banking,Small,India,Partner,0,5,319362,50,58,0.86,1,1
+218,Banking,Small,Europe,Referral,0,2,180203,200,50,0.37,0,0
+219,IT Services,Small,APAC,Referral,0,5,411339,218,49,0.49,0,0
+220,IT Services,Enterprise,North America,Partner,1,4,149294,180,73,0.9,0,0
+221,Manufacturing,Small,India,Website,1,5,296218,25,50,0.54,0,0
+222,IT Services,Small,India,Cold Call,0,2,388232,26,48,0.98,0,0
+223,Healthcare,Small,Europe,Cold Call,0,4,433041,184,57,0.99,0,0
+224,Banking,Mid,North America,Website,1,1,308983,53,66,0.49,0,1
+225,IT Services,Enterprise,Europe,Cold Call,1,3,379256,213,13,0.33,0,1
+226,IT Services,Small,Europe,Marketing Campaign,0,2,399658,153,70,0.79,1,1
+227,Manufacturing,Small,North America,Partner,0,2,78322,50,89,0.62,0,0
+228,Manufacturing,Enterprise,North America,Partner,0,2,328465,66,7,0.37,1,0
+229,Healthcare,Enterprise,North America,Website,0,4,240246,45,90,0.8,0,0
+230,Banking,Small,APAC,Cold Call,0,1,120100,47,66,0.32,0,0
+231,Manufacturing,Enterprise,North America,Referral,0,5,429204,155,26,0.91,0,0
+232,IT Services,Enterprise,India,Referral,0,1,307651,160,2,0.4,0,1
+233,Banking,Small,Europe,Cold Call,0,4,109244,183,33,0.39,0,0
+234,Banking,Enterprise,APAC,Referral,1,2,397932,72,107,0.42,0,1
+235,IT Services,Mid,North America,Website,0,3,367395,198,107,0.97,0,1
+236,Manufacturing,Mid,APAC,Website,0,2,295950,166,4,0.79,0,1
+237,IT Services,Small,North America,Cold Call,0,5,140364,215,50,0.86,1,1
+238,Banking,Small,APAC,Referral,0,3,309045,142,20,0.58,0,0
+239,Retail,Enterprise,Europe,Website,1,2,420259,45,61,0.54,0,0
+240,Retail,Enterprise,Europe,Website,0,3,478977,69,108,0.46,0,0
+241,Healthcare,Mid,India,Marketing Campaign,0,1,412968,24,30,0.64,1,0
+242,IT Services,Mid,India,Marketing Campaign,1,4,210065,202,51,0.69,0,0
+243,IT Services,Mid,North America,Website,0,2,183688,144,3,0.74,0,0
+244,Healthcare,Mid,Europe,Cold Call,1,5,62127,29,74,0.48,0,0
+245,Healthcare,Small,APAC,Partner,0,1,477993,17,57,0.96,0,1
+246,Healthcare,Small,APAC,Partner,0,2,272597,57,18,0.42,0,1
+247,Banking,Enterprise,APAC,Website,0,1,347576,173,61,0.98,1,0
+248,IT Services,Small,India,Website,0,5,395016,212,111,0.31,0,0
+249,Banking,Enterprise,APAC,Website,1,2,97362,81,37,0.64,0,0
+250,Healthcare,Small,India,Cold Call,1,5,283120,70,62,0.53,0,0
+251,IT Services,Small,India,Marketing Campaign,0,3,124176,77,18,0.61,0,1
+252,Banking,Small,North America,Website,0,5,109122,217,50,0.7,0,0
+253,Banking,Mid,APAC,Website,1,3,342548,29,77,0.6,0,0
+254,Healthcare,Enterprise,APAC,Referral,1,2,354076,123,61,0.59,0,1
+255,IT Services,Small,Europe,Cold Call,0,3,107170,130,21,0.81,0,1
+256,Healthcare,Enterprise,North America,Website,0,2,349851,106,51,0.78,0,0
+257,IT Services,Mid,Europe,Referral,0,2,492863,152,4,0.88,1,0
+258,Retail,Enterprise,North America,Partner,1,4,436904,180,44,0.47,0,0
+259,Manufacturing,Small,APAC,Website,0,2,227912,61,58,0.73,0,0
+260,Manufacturing,Enterprise,India,Website,0,3,258178,71,51,0.71,0,0
+261,Manufacturing,Enterprise,India,Referral,1,4,245851,64,69,0.56,0,0
+262,Healthcare,Small,India,Cold Call,0,4,365933,85,82,0.64,0,0
+263,Retail,Small,India,Website,0,2,106516,157,51,0.52,0,0
+264,IT Services,Enterprise,India,Partner,0,5,405233,160,38,0.4,1,0
+265,Banking,Enterprise,Europe,Website,0,5,17957,96,47,0.45,1,1
+266,IT Services,Small,North America,Partner,0,4,117724,130,43,0.37,0,0
+267,Banking,Mid,APAC,Marketing Campaign,0,2,408008,119,16,0.78,1,0
+268,IT Services,Enterprise,Europe,Marketing Campaign,0,5,459198,102,34,0.76,1,1
+269,Retail,Enterprise,North America,Partner,0,2,285381,16,81,0.97,0,0
+270,Banking,Enterprise,India,Cold Call,1,2,323730,118,12,0.81,1,1
+271,Healthcare,Enterprise,North America,Website,1,4,485003,98,21,0.34,0,0
+272,IT Services,Mid,North America,Website,0,4,291396,57,103,0.92,0,0
+273,IT Services,Small,India,Marketing Campaign,0,1,413923,168,25,0.9,0,0
+274,Banking,Small,India,Partner,0,5,175278,85,65,0.61,0,0
+275,Healthcare,Mid,India,Website,0,5,497492,180,119,0.71,0,0
+276,Healthcare,Mid,APAC,Website,0,5,13543,108,81,0.98,0,0
+277,Retail,Small,India,Cold Call,1,3,185207,56,95,0.67,1,0
+278,Healthcare,Enterprise,APAC,Referral,0,2,257541,147,99,0.93,1,0
+279,Healthcare,Mid,India,Marketing Campaign,0,4,114647,153,66,0.36,1,0
+280,Healthcare,Mid,APAC,Marketing Campaign,0,5,45031,79,89,0.43,1,0
+281,Manufacturing,Mid,North America,Referral,1,1,184001,48,89,0.61,1,0
+282,Retail,Mid,Europe,Website,0,5,337891,134,74,0.71,0,0
+283,IT Services,Small,North America,Cold Call,0,2,461067,15,87,0.87,0,0
+284,Banking,Small,North America,Cold Call,0,2,327455,225,77,0.99,0,0
+285,IT Services,Small,India,Marketing Campaign,1,4,246403,144,18,0.57,1,0
+286,Retail,Small,APAC,Cold Call,1,3,75867,227,90,0.33,0,0
+287,Banking,Mid,Europe,Referral,0,4,98780,162,93,0.86,1,1
+288,Retail,Mid,India,Website,0,5,67196,75,62,0.72,0,0
+289,Healthcare,Small,India,Referral,0,1,83705,229,16,0.44,0,0
+290,Banking,Enterprise,India,Partner,0,4,330038,163,95,0.65,1,0
+291,Healthcare,Small,North America,Marketing Campaign,1,3,359784,102,52,0.82,0,0
+292,IT Services,Enterprise,APAC,Cold Call,1,4,286735,82,28,0.84,0,0
+293,IT Services,Enterprise,APAC,Partner,1,2,107247,141,87,0.65,0,0
+294,Banking,Small,Europe,Cold Call,1,5,189965,154,75,0.51,0,0
+295,Banking,Mid,APAC,Website,0,5,10727,36,62,0.98,1,0
+296,Retail,Small,APAC,Website,0,5,424575,162,59,0.76,0,0
+297,Retail,Mid,India,Website,1,5,53822,96,32,0.59,0,0
+298,Healthcare,Mid,India,Cold Call,0,5,375543,143,92,0.5,0,0
+299,Banking,Small,North America,Partner,1,5,122113,44,13,0.81,1,0
+300,IT Services,Mid,India,Website,0,1,229606,140,47,0.47,0,0
+301,Retail,Small,India,Partner,0,3,402575,111,32,0.42,0,0
+302,Retail,Small,India,Cold Call,1,5,414145,38,33,0.67,1,0
+303,IT Services,Mid,India,Partner,0,3,400732,28,33,0.5,0,0
+304,Retail,Small,North America,Cold Call,1,5,70091,50,106,0.74,1,0
+305,Healthcare,Mid,India,Cold Call,1,4,483594,211,110,0.38,0,1
+306,Banking,Mid,Europe,Marketing Campaign,1,5,164591,217,100,0.76,0,0
+307,IT Services,Enterprise,Europe,Cold Call,1,2,420609,38,54,0.5,0,0
+308,Banking,Small,Europe,Cold Call,0,1,437534,202,62,0.3,1,1
+309,Retail,Mid,Europe,Referral,1,4,215603,109,47,0.39,1,0
+310,Retail,Mid,India,Website,0,4,366336,69,86,0.95,0,0
+311,IT Services,Small,Europe,Marketing Campaign,0,2,189006,219,75,0.91,0,1
+312,Healthcare,Enterprise,India,Marketing Campaign,0,5,382949,222,81,0.46,1,0
+313,Manufacturing,Mid,North America,Marketing Campaign,0,1,484319,38,8,0.84,0,0
+314,IT Services,Mid,Europe,Referral,0,4,169912,219,5,0.73,1,1
+315,Manufacturing,Enterprise,APAC,Cold Call,0,1,390233,166,92,0.98,0,1
+316,Manufacturing,Enterprise,Europe,Website,0,4,99367,196,53,0.56,1,0
+317,Healthcare,Enterprise,Europe,Partner,1,5,23265,40,90,0.78,0,0
+318,Manufacturing,Mid,India,Cold Call,0,4,408640,208,32,0.34,0,0
+319,Manufacturing,Mid,Europe,Referral,1,4,423841,94,76,0.58,0,0
+320,Healthcare,Small,APAC,Cold Call,1,3,89622,180,113,0.97,1,0
+321,Manufacturing,Small,India,Cold Call,1,5,170259,79,85,0.68,0,0
+322,Manufacturing,Mid,India,Referral,0,2,308073,89,37,0.5,0,0
+323,Manufacturing,Small,North America,Marketing Campaign,1,2,334036,193,55,0.38,0,0
+324,IT Services,Mid,North America,Marketing Campaign,0,5,161611,177,55,0.79,0,0
+325,IT Services,Small,Europe,Website,1,2,328774,57,18,0.75,1,0
+326,IT Services,Small,North America,Website,0,5,231711,43,110,0.56,1,1
+327,Healthcare,Enterprise,North America,Marketing Campaign,1,2,496626,179,76,0.97,0,1
+328,Retail,Enterprise,North America,Partner,1,3,412431,95,31,0.32,1,0
+329,Manufacturing,Small,India,Cold Call,0,2,180457,200,100,0.51,1,1
+330,Manufacturing,Mid,India,Partner,0,4,141025,68,106,0.94,1,1
+331,Healthcare,Enterprise,India,Cold Call,1,5,97580,53,103,0.52,0,0
+332,Manufacturing,Small,North America,Marketing Campaign,0,1,349606,56,23,0.48,1,0
+333,IT Services,Enterprise,India,Website,1,1,123396,170,118,0.67,0,0
+334,Retail,Small,North America,Website,0,5,369181,43,44,0.88,0,0
+335,Banking,Small,India,Partner,0,3,105310,185,113,0.37,1,0
+336,Manufacturing,Enterprise,India,Website,1,2,166080,145,116,0.96,0,0
+337,IT Services,Small,APAC,Marketing Campaign,1,3,321072,152,28,0.86,0,0
+338,Banking,Mid,Europe,Partner,1,1,224168,201,38,0.43,1,0
+339,Retail,Enterprise,North America,Cold Call,0,5,99876,156,47,0.8,1,0
+340,Banking,Small,APAC,Website,1,5,34976,218,114,0.57,0,1
+341,IT Services,Mid,India,Referral,0,3,255014,189,36,0.58,1,0
+342,Banking,Enterprise,North America,Website,0,3,397128,56,5,0.85,0,1
+343,Healthcare,Small,India,Cold Call,1,2,168698,108,81,0.97,0,0
+344,Banking,Enterprise,Europe,Partner,0,4,370400,174,81,0.39,1,1
+345,Manufacturing,Mid,APAC,Cold Call,0,4,372681,46,86,0.59,0,0
+346,Manufacturing,Mid,Europe,Referral,0,2,200861,184,27,0.64,0,0
+347,Healthcare,Mid,APAC,Marketing Campaign,1,4,407916,174,101,0.56,0,0
+348,IT Services,Small,India,Website,0,1,119331,40,20,0.55,0,0
+349,Manufacturing,Enterprise,Europe,Partner,1,4,204717,129,82,0.34,0,1
+350,Retail,Enterprise,Europe,Marketing Campaign,0,2,261666,143,46,0.78,1,0
+351,Manufacturing,Mid,India,Cold Call,0,4,476612,70,27,0.61,1,1
+352,Manufacturing,Enterprise,Europe,Partner,1,5,279670,136,23,0.44,0,0
+353,IT Services,Mid,North America,Marketing Campaign,0,3,113863,120,59,0.87,1,0
+354,Banking,Mid,APAC,Partner,0,1,442716,144,64,0.86,0,1
+355,Manufacturing,Mid,APAC,Referral,0,5,209121,95,29,0.64,0,0
+356,Healthcare,Mid,APAC,Referral,0,5,345510,172,66,0.51,1,0
+357,Banking,Mid,North America,Website,1,2,483533,134,45,0.75,0,1
+358,Retail,Enterprise,APAC,Website,0,3,462333,213,101,0.5,0,1
+359,IT Services,Mid,India,Referral,1,3,66096,66,44,0.47,0,1
+360,Retail,Small,Europe,Partner,0,1,148982,105,38,0.81,0,1
+361,Banking,Small,North America,Referral,0,2,484599,151,67,0.33,1,0
+362,Banking,Mid,APAC,Website,1,1,343329,36,18,0.37,0,1
+363,Banking,Mid,India,Referral,0,4,60248,48,41,0.3,0,0
+364,Retail,Mid,Europe,Referral,0,5,215728,124,39,0.41,0,1
+365,Banking,Mid,Europe,Partner,0,1,405167,63,86,0.35,0,0
+366,Retail,Mid,North America,Marketing Campaign,0,5,468428,143,62,1.0,0,0
+367,Banking,Mid,North America,Website,0,2,478917,87,10,0.5,0,0
+368,Healthcare,Small,North America,Partner,0,4,89888,98,78,0.4,1,0
+369,Banking,Mid,India,Referral,0,2,216354,67,76,0.47,1,0
+370,Retail,Mid,India,Referral,0,4,250346,225,62,0.96,0,1
+371,Manufacturing,Enterprise,North America,Marketing Campaign,0,4,104533,114,81,0.66,0,1
+372,Banking,Mid,APAC,Website,0,5,51954,138,17,0.56,0,0
+373,Manufacturing,Small,Europe,Website,0,2,361863,182,3,0.91,1,1
+374,Healthcare,Small,Europe,Cold Call,1,2,149876,59,107,0.58,1,0
+375,IT Services,Small,India,Website,1,1,233777,210,109,0.53,0,0
+376,Healthcare,Mid,Europe,Marketing Campaign,0,2,272739,151,73,0.45,1,0
+377,Banking,Small,APAC,Cold Call,1,1,301736,119,44,0.56,0,1
+378,Manufacturing,Mid,Europe,Cold Call,0,3,50643,164,43,0.52,0,0
+379,Manufacturing,Mid,India,Referral,0,3,264793,160,78,0.77,0,0
+380,Retail,Small,India,Referral,0,3,334809,218,58,0.5,0,0
+381,Manufacturing,Mid,APAC,Website,0,2,424039,120,82,0.7,0,0
+382,Retail,Small,APAC,Cold Call,0,2,278116,57,104,0.35,0,0
+383,IT Services,Mid,Europe,Referral,0,1,288026,181,89,0.43,0,0
+384,Banking,Small,Europe,Marketing Campaign,0,4,207466,215,68,0.59,0,0
+385,Retail,Enterprise,India,Referral,1,1,474271,148,31,0.96,0,0
+386,IT Services,Small,APAC,Referral,0,3,164841,225,117,0.56,0,1
+387,Manufacturing,Enterprise,APAC,Cold Call,0,1,35020,62,14,0.76,0,0
+388,Manufacturing,Mid,APAC,Cold Call,1,4,445964,140,20,0.48,0,0
+389,IT Services,Enterprise,Europe,Partner,0,2,374765,21,8,0.39,0,0
+390,Manufacturing,Mid,APAC,Marketing Campaign,0,1,357518,222,10,0.34,0,1
+391,IT Services,Mid,India,Cold Call,1,3,54912,211,84,0.51,0,0
+392,Retail,Enterprise,India,Website,1,3,22879,30,110,0.41,0,1
+393,Retail,Mid,Europe,Marketing Campaign,1,2,43798,143,55,0.42,0,0
+394,IT Services,Mid,North America,Marketing Campaign,1,1,117791,129,105,0.83,0,1
+395,Retail,Mid,Europe,Cold Call,1,4,493042,51,87,0.31,1,0
+396,Retail,Mid,North America,Marketing Campaign,1,2,187145,225,83,0.69,0,0
+397,Retail,Small,APAC,Cold Call,0,1,347935,179,62,0.57,0,0
+398,Healthcare,Small,Europe,Referral,0,5,339127,139,88,0.65,0,0
+399,Banking,Mid,India,Partner,0,3,446221,95,3,0.69,0,1
+400,Manufacturing,Mid,APAC,Referral,0,4,497947,206,51,0.52,0,1
+401,Healthcare,Enterprise,India,Cold Call,1,4,143922,232,115,0.51,0,0
+402,Retail,Mid,APAC,Cold Call,0,4,169472,228,76,0.81,0,0
+403,IT Services,Enterprise,Europe,Referral,0,3,284097,76,32,0.91,1,0
+404,Retail,Small,North America,Website,0,1,116410,86,34,0.43,0,0
+405,Banking,Small,APAC,Website,1,2,135155,203,79,0.37,0,0
+406,Retail,Small,North America,Website,0,1,164607,139,81,0.93,0,1
+407,IT Services,Mid,APAC,Cold Call,1,2,216608,175,12,0.54,1,1
+408,Banking,Enterprise,India,Marketing Campaign,0,4,478255,80,34,0.69,1,0
+409,Retail,Small,India,Cold Call,0,1,262712,44,8,0.55,0,1
+410,Banking,Enterprise,APAC,Marketing Campaign,0,4,353173,34,32,0.39,1,0
+411,Manufacturing,Mid,North America,Referral,0,5,14055,202,49,0.71,0,0
+412,Manufacturing,Mid,Europe,Partner,1,4,310314,96,111,0.67,1,0
+413,Retail,Mid,Europe,Marketing Campaign,1,4,239016,121,48,0.44,1,0
+414,Banking,Small,India,Website,0,2,248657,216,79,0.62,0,0
+415,IT Services,Mid,Europe,Cold Call,0,5,372120,166,93,0.86,1,0
+416,Retail,Mid,India,Referral,0,4,300395,146,54,0.71,0,0
+417,Manufacturing,Small,Europe,Website,1,4,407748,51,108,0.37,0,0
+418,Manufacturing,Mid,APAC,Referral,1,5,145996,146,81,0.68,0,1
+419,Retail,Small,India,Partner,0,5,58037,91,20,0.79,1,0
+420,Banking,Mid,India,Cold Call,0,1,481298,103,82,0.85,0,1
+421,Manufacturing,Mid,APAC,Cold Call,1,2,102115,219,91,0.74,0,1
+422,Banking,Mid,India,Partner,0,5,474837,160,7,0.41,1,0
+423,Manufacturing,Mid,Europe,Cold Call,0,5,350070,102,108,0.8,0,0
+424,Manufacturing,Small,Europe,Marketing Campaign,0,3,482032,208,50,0.77,0,1
+425,Healthcare,Mid,India,Referral,0,5,492870,190,74,0.32,0,0
+426,Manufacturing,Small,Europe,Website,1,2,80400,47,51,0.59,0,1
+427,IT Services,Small,North America,Partner,1,4,109525,72,82,0.53,0,0
+428,Retail,Enterprise,India,Marketing Campaign,0,4,373308,225,96,0.77,0,0
+429,Retail,Small,APAC,Website,0,4,233457,215,13,0.45,1,1
+430,Banking,Mid,North America,Website,0,4,234174,42,24,0.71,1,1
+431,Manufacturing,Mid,India,Partner,0,3,151774,49,55,0.94,0,1
+432,IT Services,Small,APAC,Marketing Campaign,0,5,378876,139,119,0.86,0,0
+433,Banking,Small,Europe,Website,0,4,25385,152,70,0.95,0,1
+434,Healthcare,Small,APAC,Website,0,1,281480,79,108,0.98,0,1
+435,Banking,Enterprise,North America,Marketing Campaign,0,4,337565,56,101,0.31,0,1
+436,Banking,Mid,Europe,Cold Call,0,5,434441,99,60,0.74,0,0
+437,Manufacturing,Small,India,Website,0,4,46021,151,37,0.59,1,0
+438,Healthcare,Mid,Europe,Referral,0,3,406998,202,4,0.9,0,1
+439,Banking,Mid,India,Marketing Campaign,0,2,492093,125,59,0.48,0,0
+440,IT Services,Small,India,Website,1,2,127369,29,89,0.99,1,0
+441,IT Services,Mid,APAC,Partner,0,5,230702,199,56,0.73,0,0
+442,Retail,Mid,APAC,Referral,0,2,59111,83,58,0.86,0,0
+443,Healthcare,Enterprise,APAC,Website,1,2,99402,119,18,0.36,0,0
+444,Healthcare,Small,North America,Referral,1,1,129774,164,40,0.43,0,0
+445,Retail,Small,North America,Referral,0,5,263724,78,91,0.83,1,1
+446,Banking,Small,APAC,Cold Call,1,5,225657,55,69,0.32,0,0
+447,Healthcare,Mid,North America,Referral,0,2,314863,229,56,0.87,1,0
+448,IT Services,Small,Europe,Cold Call,0,2,237600,85,46,0.31,1,0
+449,IT Services,Mid,Europe,Marketing Campaign,0,2,190109,70,77,0.76,1,0
+450,Manufacturing,Enterprise,North America,Cold Call,1,3,483319,165,2,0.56,1,0
+451,Healthcare,Mid,North America,Partner,1,4,135695,39,22,0.73,0,0
+452,Banking,Mid,Europe,Website,0,3,144585,233,84,0.79,0,0
+453,Retail,Enterprise,India,Marketing Campaign,0,5,256255,119,22,0.54,0,1
+454,Retail,Mid,Europe,Marketing Campaign,0,1,154407,148,53,0.38,0,0
+455,Banking,Mid,Europe,Partner,0,4,185212,133,83,0.35,1,0
+456,Manufacturing,Small,North America,Cold Call,0,1,114126,176,44,0.71,0,0
+457,Retail,Enterprise,Europe,Website,1,5,221445,205,53,0.66,1,0
+458,Healthcare,Small,North America,Cold Call,1,5,87658,23,68,0.82,1,1
+459,Manufacturing,Small,North America,Referral,1,1,175912,74,114,0.66,1,1
+460,Healthcare,Small,APAC,Cold Call,1,1,303151,139,45,0.6,1,0
+461,IT Services,Mid,Europe,Marketing Campaign,0,1,460163,63,33,0.58,0,0
+462,Manufacturing,Small,India,Website,1,5,116833,239,11,0.32,0,0
+463,Retail,Small,APAC,Cold Call,0,2,128637,65,65,0.53,0,0
+464,Manufacturing,Small,North America,Website,0,1,392865,202,105,0.98,0,1
+465,Manufacturing,Small,North America,Website,0,4,103220,84,80,0.91,0,0
+466,Manufacturing,Mid,India,Referral,0,5,36393,51,70,0.53,1,0
+467,Manufacturing,Mid,North America,Referral,0,3,67480,45,69,0.71,1,0
+468,Healthcare,Small,Europe,Marketing Campaign,0,3,389387,183,29,0.89,0,0
+469,IT Services,Mid,APAC,Partner,1,4,360434,76,54,0.61,0,0
+470,Banking,Mid,North America,Website,0,2,489551,107,117,0.31,0,0
+471,Manufacturing,Small,North America,Partner,0,1,376407,200,52,0.35,0,1
+472,Retail,Small,India,Marketing Campaign,1,5,150179,28,54,0.66,0,0
+473,Manufacturing,Enterprise,Europe,Website,0,1,278137,178,5,0.98,0,0
+474,Retail,Mid,North America,Website,0,5,499557,178,80,0.79,0,0
+475,Healthcare,Small,India,Partner,0,3,103650,93,18,0.35,0,1
+476,Retail,Mid,North America,Cold Call,0,1,244397,22,109,0.43,0,0
+477,Banking,Small,India,Referral,0,4,389739,168,68,0.84,0,1
+478,IT Services,Mid,India,Cold Call,0,2,62066,50,75,0.89,0,1
+479,Retail,Small,Europe,Partner,0,4,383994,62,48,0.73,0,1
+480,Retail,Small,North America,Referral,0,2,315086,99,107,0.75,0,0
+481,IT Services,Small,Europe,Cold Call,0,1,26138,42,57,0.32,1,0
+482,Banking,Enterprise,India,Referral,0,1,128558,210,24,0.88,0,0
+483,Manufacturing,Mid,APAC,Website,0,2,268480,204,19,0.85,0,0
+484,Retail,Small,North America,Cold Call,1,3,447743,222,2,0.48,1,0
+485,IT Services,Small,APAC,Referral,0,5,281334,228,36,0.8,0,0
+486,Healthcare,Mid,North America,Referral,0,4,364403,218,65,0.45,1,1
+487,IT Services,Small,Europe,Referral,1,4,88422,222,118,0.33,0,0
+488,Healthcare,Small,Europe,Cold Call,0,4,196770,65,59,0.44,0,0
+489,Banking,Enterprise,Europe,Marketing Campaign,0,1,92315,118,96,0.43,0,0
+490,Manufacturing,Small,Europe,Cold Call,0,4,496926,184,60,0.54,0,0
+491,IT Services,Mid,Europe,Partner,1,5,39086,115,109,0.59,0,0
+492,Retail,Enterprise,APAC,Cold Call,1,5,420538,43,2,0.66,0,0
+493,Banking,Small,Europe,Referral,0,2,135604,141,4,0.63,0,0
+494,IT Services,Small,India,Website,1,1,372958,96,68,0.49,0,0
+495,Retail,Small,India,Cold Call,0,5,129324,24,38,0.32,0,1
+496,IT Services,Enterprise,APAC,Cold Call,0,3,486785,120,84,0.72,0,1
+497,Healthcare,Enterprise,North America,Referral,0,1,226682,181,30,0.58,0,1
+498,IT Services,Enterprise,India,Website,0,1,401065,224,90,0.51,0,0
+499,IT Services,Small,North America,Website,1,5,13435,15,34,0.91,0,0
+500,IT Services,Enterprise,APAC,Partner,0,3,373649,53,101,0.82,1,0
+501,Banking,Enterprise,North America,Cold Call,0,2,325475,35,62,0.9,0,0
+502,IT Services,Mid,North America,Website,1,5,170014,79,94,0.65,0,0
+503,Retail,Enterprise,North America,Website,0,3,200707,29,91,0.39,0,0
+504,Healthcare,Enterprise,North America,Marketing Campaign,0,1,432275,146,5,0.79,0,0
+505,Healthcare,Mid,APAC,Marketing Campaign,0,3,198629,202,114,0.44,1,0
+506,IT Services,Mid,India,Website,1,1,385601,75,15,0.61,0,1
+507,Banking,Small,Europe,Partner,1,5,324533,162,115,0.35,0,0
+508,Banking,Small,North America,Website,0,5,325158,152,92,0.88,0,0
+509,Retail,Mid,India,Referral,1,4,436042,101,34,0.39,1,0
+510,IT Services,Small,India,Cold Call,0,4,302441,119,23,0.93,0,0
+511,Healthcare,Enterprise,APAC,Partner,1,4,53890,48,49,0.9,1,0
+512,Banking,Enterprise,India,Referral,0,5,293466,138,4,0.63,1,0
+513,IT Services,Enterprise,APAC,Partner,0,2,45739,124,88,0.82,0,0
+514,Banking,Small,North America,Referral,1,5,412935,190,86,0.73,1,1
+515,Banking,Small,North America,Cold Call,0,3,89553,47,106,0.86,0,1
+516,Healthcare,Small,Europe,Cold Call,0,5,18314,112,24,0.6,1,0
+517,Manufacturing,Mid,Europe,Marketing Campaign,0,5,103831,75,69,0.85,0,0
+518,Retail,Enterprise,Europe,Referral,1,1,347308,24,22,0.62,0,0
+519,Retail,Enterprise,India,Marketing Campaign,0,1,379802,196,102,0.96,0,1
+520,Healthcare,Mid,North America,Referral,0,1,349172,98,44,0.64,1,0
+521,Banking,Enterprise,APAC,Marketing Campaign,0,5,308257,79,96,0.62,0,0
+522,IT Services,Enterprise,Europe,Cold Call,0,2,127174,91,86,0.85,0,0
+523,Banking,Small,APAC,Partner,0,3,156429,15,27,0.88,0,0
+524,Healthcare,Enterprise,APAC,Marketing Campaign,1,3,239937,147,42,0.69,0,1
+525,Retail,Small,Europe,Referral,1,2,30365,94,100,0.43,0,0
+526,Banking,Small,North America,Referral,0,2,311173,29,39,0.63,0,0
+527,Retail,Mid,Europe,Cold Call,0,3,273881,42,89,0.98,0,0
+528,IT Services,Small,APAC,Referral,0,4,403186,237,12,0.83,0,0
+529,Retail,Mid,Europe,Website,0,1,215704,37,106,0.87,0,1
+530,Retail,Mid,APAC,Partner,1,1,95474,123,30,0.32,0,1
+531,Manufacturing,Mid,APAC,Marketing Campaign,0,3,350362,121,112,0.63,0,0
+532,Manufacturing,Small,Europe,Partner,0,2,265678,159,61,0.75,1,0
+533,Manufacturing,Mid,India,Cold Call,1,4,168571,127,68,0.88,0,0
+534,Retail,Mid,Europe,Marketing Campaign,0,3,251099,112,66,0.33,1,0
+535,Healthcare,Mid,India,Marketing Campaign,0,1,251474,155,117,0.9,1,0
+536,Retail,Mid,APAC,Website,0,5,138692,156,62,0.68,0,0
+537,Healthcare,Small,APAC,Cold Call,1,2,248502,153,119,0.44,0,0
+538,Healthcare,Mid,India,Referral,1,5,187229,42,20,0.52,1,0
+539,Manufacturing,Small,APAC,Website,0,3,459463,56,47,0.5,0,0
+540,Banking,Mid,India,Website,1,1,400555,238,50,0.67,0,1
+541,IT Services,Enterprise,India,Partner,0,4,182106,113,23,0.34,0,0
+542,Manufacturing,Mid,APAC,Partner,0,5,10294,75,79,0.41,0,0
+543,Manufacturing,Mid,North America,Partner,0,4,296740,137,114,0.87,1,0
+544,Banking,Enterprise,India,Website,0,1,108185,78,58,0.39,0,0
+545,IT Services,Enterprise,Europe,Referral,0,5,283578,45,15,0.46,0,0
+546,Retail,Enterprise,Europe,Marketing Campaign,0,4,68382,95,45,0.62,0,0
+547,Retail,Enterprise,APAC,Partner,0,4,310242,215,17,0.66,0,1
+548,Manufacturing,Small,North America,Referral,0,5,14655,24,98,0.83,0,0
+549,IT Services,Small,APAC,Cold Call,0,1,93029,22,78,0.61,0,0
+550,Manufacturing,Mid,North America,Partner,1,4,318372,163,103,0.85,1,0
+551,Healthcare,Small,India,Marketing Campaign,0,3,13771,219,114,0.73,0,0
+552,Manufacturing,Mid,India,Cold Call,0,5,346243,73,13,0.38,1,0
+553,Manufacturing,Small,India,Cold Call,0,2,130811,192,56,0.41,0,0
+554,Retail,Mid,India,Marketing Campaign,0,2,460015,211,52,0.61,0,0
+555,Retail,Mid,Europe,Partner,1,1,334401,212,103,0.58,0,0
+556,Retail,Mid,Europe,Website,0,3,289702,44,40,0.82,0,0
+557,Healthcare,Mid,APAC,Marketing Campaign,0,4,330580,237,34,0.71,0,0
+558,Retail,Enterprise,North America,Marketing Campaign,1,2,117779,159,34,0.57,0,0
+559,IT Services,Mid,India,Marketing Campaign,0,1,134891,217,30,0.42,1,0
+560,Banking,Enterprise,India,Cold Call,0,3,264797,34,70,0.46,1,0
+561,IT Services,Small,North America,Referral,0,3,495319,62,71,0.7,0,1
+562,IT Services,Enterprise,North America,Website,1,1,264472,215,32,0.6,0,0
+563,Retail,Mid,APAC,Partner,0,1,42376,144,81,0.66,0,1
+564,Banking,Small,North America,Partner,0,4,490674,51,32,0.42,0,0
+565,Banking,Small,India,Referral,0,1,87924,143,90,0.76,0,1
+566,Banking,Mid,India,Marketing Campaign,0,4,39332,146,113,0.9,0,0
+567,Healthcare,Small,India,Website,0,4,403145,114,47,0.48,1,0
+568,Retail,Small,India,Partner,0,5,56737,68,98,0.64,1,0
+569,Banking,Mid,India,Partner,0,3,403056,136,78,0.98,0,0
+570,Healthcare,Mid,APAC,Marketing Campaign,1,3,99031,39,53,0.53,0,0
+571,Manufacturing,Mid,India,Referral,1,3,477186,145,11,0.72,0,0
+572,Manufacturing,Enterprise,APAC,Website,0,5,193024,23,89,0.36,1,0
+573,Healthcare,Mid,India,Referral,1,4,293135,228,75,0.72,0,1
+574,Healthcare,Mid,Europe,Referral,0,4,37472,229,42,0.36,0,0
+575,Retail,Small,Europe,Website,0,1,69946,218,96,0.97,1,1
+576,Retail,Mid,Europe,Website,0,5,430065,216,78,0.8,0,0
+577,Manufacturing,Small,Europe,Partner,1,1,273685,48,4,0.85,0,0
+578,Banking,Enterprise,APAC,Partner,1,5,139237,57,60,0.79,0,0
+579,Manufacturing,Enterprise,APAC,Website,0,1,12765,88,115,0.71,0,0
+580,Banking,Mid,North America,Cold Call,1,2,315218,108,53,0.61,0,0
+581,Banking,Small,India,Partner,0,3,374939,36,35,0.9,0,1
+582,Retail,Enterprise,Europe,Cold Call,1,3,170355,84,50,0.97,0,0
+583,IT Services,Enterprise,APAC,Website,1,4,111387,144,29,0.65,0,0
+584,IT Services,Small,India,Partner,0,2,261116,108,84,0.95,1,1
+585,Healthcare,Small,India,Referral,1,3,403985,208,88,0.71,0,0
+586,Retail,Enterprise,APAC,Website,0,4,158878,46,110,0.68,0,1
+587,Banking,Small,Europe,Marketing Campaign,0,2,493734,120,97,0.62,0,1
+588,IT Services,Enterprise,North America,Cold Call,0,3,275116,158,14,0.45,1,0
+589,Banking,Mid,India,Website,0,1,159328,218,98,0.3,1,0
+590,IT Services,Small,North America,Website,1,5,376047,15,99,0.47,0,0
+591,IT Services,Enterprise,Europe,Partner,1,2,159725,86,98,0.66,0,1
+592,IT Services,Small,Europe,Partner,0,4,113579,190,70,0.57,1,0
+593,Retail,Mid,North America,Partner,1,2,489885,64,68,0.61,0,0
+594,Manufacturing,Small,Europe,Marketing Campaign,1,4,49339,155,62,0.99,0,1
+595,Banking,Small,India,Partner,0,2,428973,29,61,0.55,1,0
+596,Retail,Mid,North America,Website,1,4,375520,67,72,0.62,0,1
+597,Retail,Mid,Europe,Partner,0,3,314543,186,25,0.39,1,0
+598,Retail,Mid,North America,Referral,1,1,316157,22,64,0.33,1,0
+599,Retail,Enterprise,India,Partner,0,3,417922,88,87,0.84,0,1
+600,Retail,Mid,Europe,Marketing Campaign,0,1,441447,60,110,0.7,1,0
+601,Healthcare,Small,India,Referral,0,3,37909,83,62,0.83,1,0
+602,Banking,Small,Europe,Website,0,3,479847,128,24,0.4,0,0
+603,Retail,Enterprise,APAC,Website,0,2,198644,161,31,0.7,0,0
+604,Banking,Enterprise,Europe,Cold Call,0,5,489095,180,61,0.48,0,0
+605,Healthcare,Mid,North America,Referral,0,4,466983,137,19,0.46,0,1
+606,Healthcare,Small,Europe,Cold Call,1,4,167541,153,97,0.31,1,0
+607,Banking,Small,India,Referral,0,4,142385,131,57,0.39,0,0
+608,IT Services,Mid,India,Referral,0,1,411063,57,54,0.52,0,0
+609,Manufacturing,Enterprise,Europe,Marketing Campaign,0,4,453438,34,8,0.38,0,0
+610,IT Services,Mid,North America,Cold Call,0,4,477918,162,98,0.99,1,1
+611,IT Services,Enterprise,APAC,Marketing Campaign,1,2,151002,35,70,0.52,0,1
+612,IT Services,Enterprise,North America,Referral,1,3,13285,96,114,0.39,0,0
+613,Retail,Small,APAC,Website,0,4,395781,71,93,0.44,0,0
+614,Healthcare,Mid,India,Referral,0,5,45863,192,73,0.71,0,0
+615,IT Services,Small,North America,Marketing Campaign,1,4,157776,88,80,0.34,0,0
+616,Healthcare,Small,APAC,Cold Call,0,1,421921,112,53,0.9,0,0
+617,Banking,Enterprise,Europe,Cold Call,1,1,141627,168,5,0.97,0,0
+618,Manufacturing,Mid,India,Marketing Campaign,0,1,31323,172,35,0.47,0,1
+619,Banking,Mid,Europe,Cold Call,1,4,343112,215,70,0.62,1,0
+620,Banking,Small,India,Partner,0,2,470138,124,34,0.32,0,1
+621,Retail,Small,North America,Website,0,5,63915,129,70,0.75,0,0
+622,Manufacturing,Small,North America,Website,1,4,381687,173,39,0.59,0,0
+623,Banking,Small,India,Website,0,2,151691,56,99,0.49,0,1
+624,Banking,Mid,India,Cold Call,0,2,213462,82,27,0.44,0,0
+625,Manufacturing,Small,India,Cold Call,0,4,269990,203,2,0.76,0,1
+626,Manufacturing,Mid,North America,Referral,0,4,380644,203,5,0.59,0,0
+627,Banking,Small,APAC,Referral,0,2,462490,84,40,0.43,0,0
+628,Manufacturing,Small,Europe,Website,0,2,476389,92,55,0.78,0,1
+629,Banking,Small,Europe,Partner,0,2,424441,210,91,0.7,1,0
+630,Banking,Mid,North America,Referral,0,4,383410,104,34,0.9,0,1
+631,Retail,Mid,Europe,Referral,1,2,298883,125,34,0.38,0,1
+632,IT Services,Mid,India,Cold Call,0,1,450924,126,73,0.85,0,0
+633,Banking,Mid,APAC,Partner,0,4,138041,117,21,0.77,0,0
+634,Healthcare,Mid,Europe,Website,1,1,63019,159,17,0.38,0,0
+635,IT Services,Small,APAC,Referral,0,3,217226,33,22,0.79,0,0
+636,IT Services,Small,India,Partner,0,4,243169,193,46,0.61,0,1
+637,IT Services,Enterprise,Europe,Partner,0,3,17373,84,91,0.96,0,0
+638,Retail,Mid,North America,Website,0,2,176353,77,88,0.4,0,0
+639,Banking,Small,APAC,Partner,0,2,30187,235,83,0.75,1,0
+640,Retail,Enterprise,India,Partner,0,5,340007,89,63,0.57,0,0
+641,Banking,Enterprise,APAC,Partner,0,2,107927,222,32,0.97,0,1
+642,Retail,Small,Europe,Referral,0,3,248185,172,117,0.53,1,0
+643,Retail,Mid,Europe,Website,0,2,356229,167,43,0.97,0,1
+644,Healthcare,Mid,North America,Partner,0,4,127996,118,13,0.93,0,0
+645,Retail,Mid,India,Partner,0,2,49220,89,66,0.49,0,0
+646,Manufacturing,Small,India,Referral,1,5,402647,142,107,0.86,0,0
+647,Healthcare,Small,North America,Website,0,2,17642,213,74,1.0,0,0
+648,Retail,Mid,North America,Cold Call,0,3,89971,168,4,0.48,1,1
+649,IT Services,Mid,India,Referral,0,3,65556,70,116,0.61,0,0
+650,Manufacturing,Enterprise,APAC,Website,0,2,436976,36,91,0.66,0,1
+651,Manufacturing,Mid,APAC,Partner,0,3,310336,103,10,0.51,1,0
+652,Manufacturing,Small,North America,Website,0,3,407597,33,107,0.31,1,0
+653,Healthcare,Mid,APAC,Website,1,5,237655,173,52,0.45,0,0
+654,Retail,Small,India,Website,0,4,422774,40,17,0.5,0,0
+655,Retail,Mid,Europe,Cold Call,1,5,302926,184,89,0.61,0,0
+656,IT Services,Mid,Europe,Website,0,1,276926,183,115,0.42,0,0
+657,IT Services,Small,APAC,Cold Call,0,5,232489,37,79,0.91,0,1
+658,Manufacturing,Mid,North America,Partner,0,2,195784,61,4,0.79,0,0
+659,IT Services,Small,North America,Cold Call,0,4,246836,27,99,0.36,1,0
+660,Healthcare,Small,North America,Partner,0,2,498161,231,98,0.76,0,0
+661,Retail,Small,North America,Partner,0,1,160534,80,115,0.76,0,0
+662,Manufacturing,Small,North America,Cold Call,0,4,332174,208,25,0.97,0,1
+663,IT Services,Enterprise,APAC,Referral,1,3,209591,158,74,0.3,0,0
+664,Healthcare,Mid,Europe,Marketing Campaign,1,5,328555,87,14,0.47,0,0
+665,Healthcare,Small,Europe,Website,0,2,196278,170,3,0.95,0,0
+666,IT Services,Mid,APAC,Marketing Campaign,0,1,107469,91,72,0.95,1,0
+667,Retail,Small,North America,Website,0,3,56950,177,113,0.8,0,0
+668,IT Services,Enterprise,APAC,Website,0,5,405739,183,22,0.84,0,0
+669,Manufacturing,Mid,Europe,Partner,0,3,464142,219,20,0.36,0,0
+670,IT Services,Enterprise,India,Website,0,5,150749,45,90,0.66,0,0
+671,Healthcare,Small,APAC,Website,0,4,216900,99,48,0.46,0,1
+672,IT Services,Mid,North America,Cold Call,0,3,156161,174,23,0.43,1,0
+673,Retail,Mid,Europe,Marketing Campaign,1,3,407797,196,76,0.87,1,1
+674,Banking,Enterprise,Europe,Cold Call,1,3,415123,214,34,0.39,0,0
+675,IT Services,Small,Europe,Website,1,4,408825,73,33,0.63,0,1
+676,Retail,Small,Europe,Partner,0,1,192225,55,65,0.96,1,0
+677,Retail,Enterprise,North America,Cold Call,0,5,322683,126,86,0.43,0,0
+678,Healthcare,Mid,India,Cold Call,0,3,447359,208,40,0.98,0,0
+679,Retail,Small,Europe,Referral,0,4,32936,110,85,1.0,0,0
+680,Retail,Small,APAC,Website,0,1,322326,196,73,0.69,1,0
+681,Retail,Enterprise,India,Partner,1,5,383403,182,43,0.42,0,0
+682,Retail,Small,Europe,Cold Call,0,4,240596,136,102,0.52,1,0
+683,Manufacturing,Mid,India,Cold Call,0,5,105042,170,10,0.6,1,0
+684,Manufacturing,Enterprise,APAC,Partner,0,3,285307,179,26,0.52,0,0
+685,Healthcare,Small,Europe,Website,0,1,267758,119,90,0.5,1,1
+686,IT Services,Mid,APAC,Referral,0,4,462974,207,98,0.98,1,0
+687,Retail,Small,North America,Cold Call,0,1,187129,88,3,0.41,0,0
+688,IT Services,Small,Europe,Referral,0,3,153609,197,20,0.81,0,0
+689,IT Services,Enterprise,Europe,Marketing Campaign,0,1,32419,146,111,0.3,0,0
+690,Healthcare,Enterprise,Europe,Website,1,1,445794,113,21,0.72,0,0
+691,Retail,Mid,Europe,Marketing Campaign,0,2,216063,140,107,0.94,0,1
+692,Retail,Mid,North America,Marketing Campaign,1,1,131211,152,106,0.5,0,0
+693,Banking,Small,Europe,Marketing Campaign,0,5,394906,189,107,0.43,0,0
+694,IT Services,Small,India,Website,0,4,215671,89,94,0.76,1,0
+695,IT Services,Small,Europe,Website,0,2,10834,28,71,0.8,0,0
+696,Manufacturing,Small,North America,Partner,0,4,304358,52,18,0.78,0,1
+697,Banking,Small,Europe,Referral,0,4,234006,154,90,0.52,0,1
+698,Manufacturing,Small,India,Referral,1,3,264870,59,103,0.48,0,0
+699,Manufacturing,Small,North America,Partner,1,3,262358,159,69,0.97,0,0
+700,Manufacturing,Small,North America,Partner,0,2,12413,222,95,0.95,0,0
+701,Healthcare,Mid,India,Marketing Campaign,0,3,19505,177,85,0.62,0,0
+702,Healthcare,Enterprise,India,Partner,1,3,261753,208,4,0.89,1,0
+703,Manufacturing,Small,India,Cold Call,0,3,374946,89,88,0.62,1,0
+704,Banking,Enterprise,India,Referral,0,4,143177,183,52,0.6,0,0
+705,IT Services,Enterprise,India,Partner,0,2,209176,209,83,0.41,1,0
+706,Banking,Small,North America,Cold Call,1,4,400447,43,27,0.6,1,0
+707,Retail,Enterprise,North America,Cold Call,1,5,124897,32,57,0.68,0,1
+708,Healthcare,Mid,Europe,Cold Call,0,4,68408,34,101,0.32,1,0
+709,IT Services,Mid,Europe,Cold Call,1,5,178751,28,65,0.61,1,1
+710,IT Services,Small,APAC,Marketing Campaign,1,1,126908,176,9,0.85,0,0
+711,Retail,Mid,Europe,Cold Call,0,1,255993,191,82,0.78,0,0
+712,Retail,Small,Europe,Marketing Campaign,0,5,240168,68,96,0.74,0,1
+713,Manufacturing,Mid,India,Marketing Campaign,0,5,89731,45,38,0.94,0,1
+714,Healthcare,Mid,India,Cold Call,1,4,337275,72,110,0.31,1,0
+715,Healthcare,Mid,Europe,Referral,0,5,336424,118,98,0.69,0,0
+716,Banking,Mid,APAC,Cold Call,1,2,287906,184,28,0.85,1,1
+717,Manufacturing,Mid,India,Cold Call,0,1,127798,200,46,0.68,1,0
+718,Manufacturing,Small,Europe,Cold Call,1,1,126854,142,5,0.53,0,0
+719,Manufacturing,Small,Europe,Referral,0,5,247902,224,87,0.4,0,1
+720,Manufacturing,Enterprise,North America,Website,0,3,330847,172,91,0.92,0,0
+721,Healthcare,Small,APAC,Website,1,3,484650,39,97,0.63,0,0
+722,Healthcare,Small,North America,Marketing Campaign,1,5,73079,205,89,0.91,0,0
+723,Manufacturing,Small,APAC,Marketing Campaign,1,2,31577,33,111,0.71,0,0
+724,Banking,Small,India,Referral,0,3,273358,214,100,0.77,0,0
+725,IT Services,Enterprise,APAC,Partner,1,5,358483,234,38,0.86,1,0
+726,IT Services,Mid,Europe,Website,0,2,320258,150,97,0.76,0,0
+727,Banking,Enterprise,Europe,Marketing Campaign,0,2,492450,237,72,0.58,0,0
+728,Manufacturing,Mid,APAC,Website,0,4,335374,17,34,0.66,0,0
+729,Healthcare,Mid,APAC,Referral,0,2,174052,209,32,0.86,1,0
+730,IT Services,Small,APAC,Referral,0,3,77194,100,56,0.56,0,1
+731,Retail,Mid,North America,Partner,1,3,481022,223,13,0.57,0,0
+732,Retail,Small,APAC,Partner,0,5,122333,159,12,0.37,1,1
+733,Banking,Enterprise,India,Referral,1,5,47792,156,89,0.94,0,0
+734,Manufacturing,Enterprise,North America,Marketing Campaign,0,2,55807,23,73,0.36,0,1
+735,IT Services,Small,North America,Website,0,1,397410,204,33,0.75,0,0
+736,Manufacturing,Enterprise,APAC,Cold Call,0,4,425517,108,58,0.59,1,0
+737,IT Services,Enterprise,India,Partner,1,1,146213,163,39,0.58,0,1
+738,Banking,Mid,North America,Cold Call,1,2,114292,218,61,0.78,0,1
+739,Banking,Small,Europe,Marketing Campaign,1,2,132984,179,87,0.35,0,0
+740,Retail,Mid,North America,Partner,1,1,23777,238,99,0.72,1,0
+741,Manufacturing,Mid,APAC,Cold Call,0,4,48346,153,20,0.84,0,0
+742,Retail,Small,India,Marketing Campaign,0,1,326847,34,117,0.88,0,1
+743,Manufacturing,Small,APAC,Website,1,5,104977,49,85,0.42,1,0
+744,Retail,Enterprise,Europe,Marketing Campaign,0,3,319963,67,57,0.93,0,0
+745,Healthcare,Small,Europe,Partner,0,5,431685,189,15,0.76,1,0
+746,Healthcare,Mid,Europe,Referral,0,3,144917,124,34,0.92,1,0
+747,Healthcare,Enterprise,APAC,Website,0,2,382330,217,11,0.64,1,1
+748,Healthcare,Enterprise,North America,Cold Call,0,4,33290,194,81,0.68,0,0
+749,IT Services,Small,APAC,Partner,0,1,384695,150,65,0.94,0,0
+750,Healthcare,Enterprise,India,Referral,0,4,433915,18,65,0.93,1,0
+751,Banking,Small,North America,Marketing Campaign,0,1,185324,169,63,0.61,1,0
+752,Banking,Small,Europe,Referral,0,5,370826,186,69,0.49,0,0
+753,IT Services,Mid,APAC,Partner,0,5,144365,182,92,0.58,1,0
+754,Healthcare,Small,Europe,Partner,1,1,390161,116,93,0.57,0,1
+755,Healthcare,Small,Europe,Referral,0,4,129496,61,44,0.5,0,0
+756,Healthcare,Mid,India,Marketing Campaign,0,1,329233,108,81,0.49,0,0
+757,Retail,Small,North America,Referral,1,2,419824,186,60,0.9,1,0
+758,Manufacturing,Small,India,Partner,0,5,400857,62,53,0.35,0,0
+759,Retail,Mid,India,Partner,0,2,207345,105,98,0.77,0,1
+760,Manufacturing,Enterprise,India,Cold Call,1,5,288763,227,113,0.42,1,0
+761,Healthcare,Mid,Europe,Cold Call,0,5,88006,194,20,0.54,0,0
+762,Healthcare,Small,India,Website,1,3,256471,98,22,0.34,0,0
+763,Retail,Mid,India,Partner,1,2,228980,82,23,0.49,0,0
+764,Retail,Small,North America,Cold Call,0,2,484869,153,10,0.84,0,0
+765,Manufacturing,Small,North America,Referral,0,3,286923,219,10,0.92,0,1
+766,Banking,Enterprise,India,Marketing Campaign,0,4,454256,139,74,0.46,1,0
+767,Manufacturing,Small,North America,Referral,0,2,235902,87,28,0.62,0,0
+768,Retail,Small,North America,Marketing Campaign,0,1,459541,18,18,0.63,1,0
+769,Retail,Mid,India,Cold Call,0,3,293774,90,45,0.91,0,0
+770,IT Services,Mid,Europe,Website,0,2,377719,87,46,0.83,0,0
+771,Retail,Mid,India,Referral,0,4,125436,91,9,0.66,0,1
+772,IT Services,Small,North America,Referral,0,2,153250,62,81,0.77,0,0
+773,Banking,Small,Europe,Referral,0,5,423151,168,19,0.89,0,0
+774,Manufacturing,Small,APAC,Marketing Campaign,0,1,450474,116,34,0.31,0,0
+775,Manufacturing,Small,Europe,Cold Call,1,3,294928,120,2,0.58,0,1
+776,IT Services,Mid,North America,Referral,0,5,466938,91,77,0.94,0,0
+777,Manufacturing,Enterprise,Europe,Referral,0,4,164099,53,7,0.82,0,1
+778,Retail,Mid,India,Website,1,5,499760,234,42,0.68,0,0
+779,Healthcare,Enterprise,APAC,Website,0,5,461069,72,56,0.67,1,1
+780,IT Services,Mid,APAC,Cold Call,0,4,384311,33,6,0.54,0,0
+781,Manufacturing,Mid,APAC,Cold Call,0,5,77359,102,60,0.66,0,0
+782,IT Services,Small,North America,Partner,0,3,213460,225,81,0.76,1,0
+783,IT Services,Mid,North America,Website,0,2,350752,127,19,0.59,1,0
+784,Healthcare,Mid,APAC,Partner,0,5,479885,91,50,0.8,0,0
+785,Retail,Small,Europe,Marketing Campaign,0,3,287255,91,83,0.9,0,0
+786,IT Services,Small,APAC,Partner,1,2,173384,200,66,0.41,0,0
+787,Manufacturing,Enterprise,Europe,Referral,0,2,270393,42,84,0.62,0,0
+788,Banking,Small,Europe,Partner,0,5,296305,80,55,0.59,1,1
+789,IT Services,Small,North America,Cold Call,1,3,391064,24,62,0.78,1,0
+790,IT Services,Mid,Europe,Marketing Campaign,0,5,376967,140,9,0.47,0,1
+791,Healthcare,Enterprise,APAC,Referral,1,4,397158,228,4,0.75,1,0
+792,Retail,Mid,North America,Partner,0,2,140466,219,26,0.91,0,0
+793,Banking,Mid,India,Marketing Campaign,1,5,339457,72,70,0.59,0,0
+794,Manufacturing,Small,India,Marketing Campaign,0,2,191446,215,56,0.94,1,0
+795,Banking,Mid,North America,Referral,1,3,427230,239,41,1.0,0,1
+796,Manufacturing,Small,APAC,Partner,1,1,90308,156,84,0.37,1,0
+797,Retail,Enterprise,India,Marketing Campaign,0,5,318533,139,83,0.46,1,1
+798,Manufacturing,Mid,India,Marketing Campaign,0,5,251235,126,51,0.97,0,1
+799,Healthcare,Small,Europe,Website,0,2,421377,98,118,0.97,0,0
+800,Healthcare,Small,Europe,Marketing Campaign,0,3,117800,157,96,0.37,0,1
+801,Healthcare,Small,APAC,Website,0,4,410706,110,34,0.31,0,0
+802,Healthcare,Small,North America,Partner,0,3,391691,47,112,0.41,0,1
+803,Banking,Small,APAC,Partner,0,5,248269,159,19,1.0,0,0
+804,Retail,Mid,North America,Partner,0,4,34502,166,58,0.43,1,0
+805,Manufacturing,Mid,India,Cold Call,0,3,45757,172,104,0.65,0,1
+806,Manufacturing,Small,Europe,Partner,0,1,313255,204,17,0.89,0,0
+807,Healthcare,Small,APAC,Marketing Campaign,0,2,108273,155,81,0.31,0,0
+808,Healthcare,Small,APAC,Referral,0,3,486461,204,112,0.72,1,0
+809,IT Services,Enterprise,North America,Website,0,3,68645,61,39,0.49,0,0
+810,Retail,Small,North America,Cold Call,0,1,382362,126,42,0.9,0,0
+811,Banking,Mid,APAC,Partner,0,5,331199,158,8,0.5,1,1
+812,Manufacturing,Enterprise,North America,Partner,0,2,129815,208,79,0.78,0,0
+813,IT Services,Mid,APAC,Referral,0,3,412214,223,108,0.77,0,0
+814,IT Services,Enterprise,APAC,Referral,1,4,169978,238,54,0.46,1,0
+815,Manufacturing,Small,APAC,Cold Call,0,3,373170,57,64,0.32,0,0
+816,Banking,Enterprise,India,Website,0,2,342336,22,113,0.59,1,0
+817,IT Services,Small,North America,Partner,1,3,191549,17,90,0.5,0,1
+818,IT Services,Small,Europe,Cold Call,1,1,177973,139,33,0.87,0,1
+819,Retail,Mid,Europe,Marketing Campaign,1,3,232343,26,39,0.86,1,0
+820,Banking,Enterprise,North America,Marketing Campaign,0,3,62021,98,23,0.62,0,0
+821,IT Services,Enterprise,APAC,Cold Call,0,4,39092,30,17,0.72,1,1
+822,Banking,Small,Europe,Partner,1,1,404458,92,53,0.72,1,1
+823,Manufacturing,Small,Europe,Cold Call,0,1,378987,222,30,0.88,1,0
+824,Healthcare,Enterprise,North America,Partner,0,3,142903,73,17,0.6,1,0
+825,IT Services,Small,Europe,Referral,1,4,322865,191,77,0.49,0,1
+826,Retail,Enterprise,APAC,Cold Call,1,3,300655,77,18,0.49,1,0
+827,Manufacturing,Enterprise,North America,Partner,1,3,82782,204,102,0.68,0,0
+828,Banking,Mid,APAC,Cold Call,1,2,369147,63,65,0.61,0,0
+829,Manufacturing,Small,Europe,Cold Call,1,2,421518,65,92,0.61,1,0
+830,IT Services,Mid,Europe,Partner,0,4,327712,47,90,0.36,0,0
+831,Banking,Small,APAC,Partner,1,5,406448,44,14,0.8,0,0
+832,Healthcare,Enterprise,India,Website,0,2,374206,201,73,0.45,0,0
+833,Manufacturing,Mid,Europe,Cold Call,0,5,376445,90,57,0.44,0,0
+834,IT Services,Enterprise,India,Marketing Campaign,1,1,323651,29,6,0.59,1,0
+835,Retail,Small,Europe,Cold Call,0,2,134277,96,13,0.46,0,0
+836,Banking,Enterprise,India,Cold Call,0,2,139999,106,42,0.71,0,1
+837,Manufacturing,Mid,India,Partner,0,4,217580,37,4,0.56,1,1
+838,Manufacturing,Small,India,Cold Call,1,5,254744,220,100,0.61,0,0
+839,Healthcare,Small,APAC,Cold Call,0,2,110128,108,34,0.68,0,0
+840,Healthcare,Mid,India,Marketing Campaign,1,2,282827,239,87,0.44,0,1
+841,Retail,Mid,India,Partner,0,4,33664,59,51,0.41,0,0
+842,Retail,Enterprise,India,Cold Call,1,4,112364,76,57,0.92,0,0
+843,IT Services,Small,Europe,Referral,1,5,261084,221,109,0.6,1,1
+844,IT Services,Small,India,Website,0,1,174244,213,10,0.59,0,0
+845,Retail,Mid,Europe,Marketing Campaign,0,1,486857,29,106,0.32,1,1
+846,Retail,Small,India,Cold Call,0,3,74340,60,83,0.65,1,1
+847,Banking,Mid,India,Referral,1,2,97236,78,51,0.69,0,0
+848,Healthcare,Enterprise,APAC,Cold Call,0,5,21017,188,30,0.69,0,0
+849,IT Services,Enterprise,Europe,Cold Call,1,2,308757,198,40,0.79,0,0
+850,Healthcare,Enterprise,India,Partner,0,5,271879,186,92,0.42,0,0
+851,Healthcare,Enterprise,Europe,Partner,1,5,489346,89,101,0.48,1,0
+852,Retail,Small,Europe,Partner,1,5,480136,171,46,0.87,0,0
+853,Banking,Mid,North America,Referral,1,2,40348,237,18,0.96,0,0
+854,Manufacturing,Mid,APAC,Cold Call,1,4,419664,204,57,0.4,0,1
+855,Banking,Enterprise,APAC,Website,0,2,281635,231,99,0.65,0,0
+856,Banking,Small,APAC,Marketing Campaign,0,5,219720,66,47,0.45,0,0
+857,Healthcare,Mid,North America,Partner,1,3,131070,196,68,0.34,0,0
+858,Banking,Small,North America,Partner,1,1,237629,102,70,0.53,0,0
+859,IT Services,Mid,APAC,Cold Call,0,5,330903,71,15,0.4,0,0
+860,Healthcare,Enterprise,North America,Cold Call,0,3,447769,97,68,0.8,0,0
+861,IT Services,Enterprise,North America,Referral,0,4,404184,80,24,0.67,1,0
+862,Manufacturing,Small,North America,Referral,0,5,272512,164,104,0.4,0,1
+863,Healthcare,Enterprise,APAC,Partner,0,3,477176,34,95,0.31,0,1
+864,Manufacturing,Mid,APAC,Cold Call,0,5,45010,47,115,0.87,0,0
+865,Healthcare,Small,APAC,Website,1,2,457370,86,110,0.42,0,0
+866,Retail,Small,North America,Marketing Campaign,0,3,45851,39,62,0.72,1,0
+867,Banking,Small,APAC,Cold Call,0,2,132761,60,24,0.54,0,0
+868,Retail,Small,North America,Cold Call,0,2,428712,87,28,0.71,0,0
+869,Manufacturing,Enterprise,India,Referral,0,3,264640,112,55,0.52,1,1
+870,Banking,Mid,North America,Marketing Campaign,1,1,399296,71,11,0.36,1,0
+871,Healthcare,Enterprise,Europe,Partner,1,3,172008,101,90,0.46,0,0
+872,Banking,Small,APAC,Cold Call,0,1,88858,147,78,0.43,0,0
+873,IT Services,Small,APAC,Partner,1,5,77005,69,17,0.6,1,1
+874,Banking,Mid,Europe,Cold Call,1,5,47493,75,42,0.76,0,1
+875,IT Services,Small,North America,Partner,1,3,210867,103,99,0.48,1,0
+876,Banking,Mid,India,Marketing Campaign,0,5,177462,22,56,0.31,1,0
+877,IT Services,Enterprise,Europe,Referral,1,4,20292,30,102,0.66,1,0
+878,Manufacturing,Mid,Europe,Marketing Campaign,0,2,364521,190,62,0.72,0,0
+879,Retail,Mid,North America,Website,0,2,169437,130,87,0.97,1,0
+880,Healthcare,Small,APAC,Referral,0,1,420423,75,82,0.71,0,1
+881,Banking,Small,North America,Marketing Campaign,0,5,111735,29,88,0.63,1,0
+882,Retail,Small,Europe,Website,0,1,32912,207,119,0.7,0,1
+883,Healthcare,Mid,Europe,Cold Call,0,2,90771,164,101,0.95,0,0
+884,Healthcare,Small,APAC,Cold Call,0,2,197644,145,50,0.88,0,1
+885,IT Services,Small,APAC,Partner,1,5,117293,116,74,0.53,0,1
+886,Manufacturing,Mid,APAC,Referral,1,4,109083,68,53,0.47,0,0
+887,Manufacturing,Small,North America,Cold Call,0,4,123655,28,3,0.48,1,0
+888,Retail,Small,APAC,Referral,1,5,422492,50,97,0.65,0,0
+889,Manufacturing,Small,Europe,Cold Call,1,5,107459,224,51,0.82,1,1
+890,Banking,Enterprise,Europe,Partner,1,1,408750,119,118,0.65,0,0
+891,Manufacturing,Mid,India,Marketing Campaign,0,5,233077,96,87,0.35,0,0
+892,Retail,Mid,North America,Partner,1,4,242682,81,44,0.81,0,0
+893,Manufacturing,Small,India,Website,1,5,438886,24,78,0.86,0,0
+894,Banking,Enterprise,Europe,Cold Call,1,1,465363,63,9,0.5,1,0
+895,IT Services,Mid,India,Website,0,1,239171,125,60,0.76,0,0
+896,Retail,Small,Europe,Website,0,1,383839,79,66,0.6,0,0
+897,IT Services,Enterprise,India,Referral,0,1,177558,233,82,0.92,0,0
+898,IT Services,Small,APAC,Cold Call,0,3,468773,71,13,0.89,1,1
+899,IT Services,Mid,India,Website,0,5,306412,41,5,0.67,0,1
+900,Healthcare,Mid,APAC,Marketing Campaign,0,2,117338,217,118,0.78,0,0
+901,Healthcare,Small,APAC,Website,1,5,484551,127,78,0.92,0,1
+902,IT Services,Enterprise,North America,Marketing Campaign,1,3,298480,147,96,0.65,0,0
+903,Retail,Mid,APAC,Referral,0,1,275785,85,42,0.52,0,0
+904,Banking,Mid,APAC,Website,1,3,97132,97,8,0.83,1,0
+905,Banking,Small,India,Partner,0,4,305103,71,88,0.45,0,0
+906,Manufacturing,Small,Europe,Referral,1,4,154378,134,89,0.57,0,0
+907,Retail,Small,North America,Marketing Campaign,1,5,187254,107,70,0.91,0,0
+908,Healthcare,Enterprise,APAC,Referral,1,5,84123,29,70,0.81,0,0
+909,IT Services,Small,North America,Website,1,2,459542,125,82,0.58,0,1
+910,Manufacturing,Mid,India,Cold Call,0,2,237967,115,31,0.45,1,0
+911,Banking,Mid,APAC,Cold Call,1,4,31498,133,74,0.55,1,0
+912,Healthcare,Small,India,Marketing Campaign,0,1,80198,90,7,0.5,1,1
+913,Healthcare,Mid,North America,Marketing Campaign,1,3,37197,172,90,0.42,1,1
+914,IT Services,Small,India,Cold Call,1,2,161791,34,20,0.82,0,0
+915,Banking,Enterprise,North America,Marketing Campaign,1,2,493417,179,81,0.48,0,0
+916,Retail,Mid,India,Referral,0,1,118775,145,86,0.62,0,0
+917,Healthcare,Small,North America,Partner,1,1,297176,87,67,0.57,0,0
+918,IT Services,Small,Europe,Partner,0,5,331768,136,11,0.99,0,0
+919,Retail,Mid,India,Referral,0,3,350321,55,17,0.57,0,0
+920,Banking,Enterprise,India,Partner,1,1,314108,181,38,0.36,0,1
+921,Healthcare,Mid,Europe,Website,0,2,171100,168,80,0.36,1,0
+922,Retail,Mid,Europe,Referral,1,2,121030,144,78,0.71,1,1
+923,Retail,Small,India,Marketing Campaign,0,4,326790,37,78,0.72,1,1
+924,Retail,Small,Europe,Referral,0,1,353331,37,33,0.59,0,1
+925,Healthcare,Small,APAC,Cold Call,1,5,411752,227,110,0.6,0,0
+926,Healthcare,Mid,North America,Marketing Campaign,0,3,127399,158,48,0.34,0,1
+927,Manufacturing,Enterprise,North America,Cold Call,0,5,66747,23,111,0.66,0,0
+928,Banking,Mid,North America,Marketing Campaign,1,2,55712,27,73,0.65,0,0
+929,IT Services,Small,APAC,Partner,0,5,409489,170,44,0.4,0,0
+930,Retail,Mid,Europe,Referral,0,2,343964,169,83,0.37,0,0
+931,Manufacturing,Enterprise,Europe,Website,0,2,135342,65,37,0.39,0,1
+932,IT Services,Mid,India,Marketing Campaign,1,2,101228,78,27,0.37,0,1
+933,Manufacturing,Enterprise,Europe,Marketing Campaign,1,2,346497,66,11,0.73,0,0
+934,Healthcare,Small,India,Cold Call,1,2,497707,223,32,0.44,0,0
+935,Retail,Small,APAC,Partner,0,4,102091,52,98,0.48,0,0
+936,IT Services,Enterprise,North America,Cold Call,1,5,358058,114,30,0.42,0,0
+937,IT Services,Mid,North America,Cold Call,1,4,191902,207,6,0.97,0,1
+938,IT Services,Small,North America,Partner,1,4,378862,160,78,0.9,0,0
+939,IT Services,Mid,Europe,Website,0,1,420343,205,2,0.46,1,1
+940,IT Services,Enterprise,India,Cold Call,1,1,256222,65,88,0.53,1,0
+941,Manufacturing,Mid,India,Cold Call,1,1,224560,151,105,0.45,0,0
+942,Retail,Mid,APAC,Marketing Campaign,0,3,21539,155,4,0.64,0,0
+943,Healthcare,Small,Europe,Partner,0,1,187833,182,68,0.31,0,0
+944,Healthcare,Mid,APAC,Referral,1,5,318363,69,72,0.77,0,0
+945,Healthcare,Mid,India,Website,0,4,417908,123,101,0.67,0,1
+946,Healthcare,Enterprise,India,Website,1,5,486872,221,36,0.93,0,1
+947,Manufacturing,Enterprise,North America,Partner,1,1,285478,185,16,0.42,0,0
+948,Banking,Enterprise,Europe,Marketing Campaign,0,3,431831,58,105,0.86,0,0
+949,Retail,Small,India,Marketing Campaign,0,3,280047,124,68,0.85,1,0
+950,IT Services,Mid,North America,Partner,0,4,431743,210,94,0.39,0,0
+951,Banking,Enterprise,Europe,Marketing Campaign,1,5,418845,175,31,0.58,1,0
+952,Healthcare,Mid,APAC,Website,0,2,68008,166,104,0.42,0,0
+953,Banking,Enterprise,Europe,Website,1,5,486492,178,83,0.48,0,1
+954,Retail,Enterprise,Europe,Referral,0,1,371462,142,76,0.48,1,0
+955,IT Services,Mid,India,Partner,0,2,429924,119,44,0.69,1,1
+956,IT Services,Mid,India,Cold Call,0,3,151932,24,114,0.59,0,0
+957,Retail,Small,Europe,Cold Call,0,4,420654,114,61,0.96,0,1
+958,Retail,Small,India,Referral,1,4,77300,162,103,0.39,0,0
+959,Healthcare,Mid,India,Referral,0,3,401407,123,41,0.98,0,0
+960,IT Services,Enterprise,India,Marketing Campaign,0,1,474761,122,66,0.46,1,1
+961,Banking,Small,North America,Referral,0,3,292986,217,30,0.84,1,0
+962,Manufacturing,Small,North America,Referral,0,1,201285,154,75,0.54,0,0
+963,Manufacturing,Mid,Europe,Cold Call,0,2,314516,204,93,0.4,0,0
+964,Retail,Small,India,Marketing Campaign,1,3,386460,160,96,0.9,0,1
+965,Healthcare,Small,North America,Referral,0,1,108971,108,20,0.52,0,1
+966,Manufacturing,Small,Europe,Referral,0,2,472122,77,4,0.76,1,0
+967,IT Services,Small,India,Marketing Campaign,0,3,48744,98,37,0.7,1,0
+968,Retail,Small,APAC,Partner,1,4,388226,39,44,0.63,0,1
+969,Banking,Small,India,Marketing Campaign,0,3,329586,26,16,0.65,0,0
+970,Retail,Mid,India,Cold Call,0,5,401214,163,98,0.81,0,0
+971,Banking,Enterprise,North America,Partner,1,3,95990,39,42,0.36,0,0
+972,Retail,Mid,Europe,Website,0,5,393814,25,108,0.77,1,0
+973,Retail,Mid,Europe,Marketing Campaign,0,2,379061,78,116,0.93,0,0
+974,Retail,Small,North America,Cold Call,0,3,244975,215,110,0.34,0,0
+975,Banking,Small,India,Partner,1,2,13650,140,91,0.4,0,0
+976,Banking,Mid,APAC,Marketing Campaign,0,2,55117,64,81,0.8,1,0
+977,Retail,Small,India,Referral,1,1,363388,204,37,0.61,0,0
+978,Manufacturing,Mid,India,Marketing Campaign,0,2,455988,103,98,0.58,1,0
+979,Healthcare,Mid,APAC,Website,0,2,275334,113,85,0.4,1,1
+980,Healthcare,Mid,North America,Marketing Campaign,0,3,58113,130,78,0.65,1,0
+981,Healthcare,Small,Europe,Partner,0,3,149861,110,34,0.39,0,0
+982,Banking,Small,North America,Partner,1,4,42125,191,6,0.63,0,1
+983,Banking,Mid,North America,Marketing Campaign,0,1,239767,28,102,0.83,0,0
+984,Manufacturing,Small,India,Partner,0,2,402144,15,79,0.48,0,0
+985,Healthcare,Mid,Europe,Referral,0,1,420675,223,92,0.64,0,0
+986,Healthcare,Mid,Europe,Marketing Campaign,1,5,176490,39,88,0.99,0,1
+987,Retail,Enterprise,North America,Referral,0,2,384048,201,15,0.78,0,1
+988,Banking,Small,APAC,Referral,1,1,188157,86,105,0.89,1,1
+989,Healthcare,Enterprise,North America,Cold Call,0,4,28768,83,69,0.59,0,1
+990,Manufacturing,Mid,APAC,Marketing Campaign,0,4,191033,147,104,0.84,0,0
+991,Manufacturing,Small,Europe,Partner,0,2,353243,119,117,0.33,1,0
+992,Healthcare,Small,North America,Referral,0,5,263807,161,84,0.39,1,0
+993,Banking,Mid,India,Cold Call,0,4,168957,37,48,0.44,1,0
+994,Manufacturing,Small,North America,Marketing Campaign,0,4,97421,23,55,0.58,1,0
+995,Retail,Small,Europe,Marketing Campaign,1,5,202154,132,5,0.89,1,0
+996,Manufacturing,Small,India,Website,1,1,279039,108,95,0.54,0,0
+997,IT Services,Enterprise,India,Website,1,4,191383,192,84,0.76,0,1
+998,IT Services,Enterprise,APAC,Referral,0,3,230566,158,96,0.8,0,0
+999,Banking,Mid,India,Website,0,4,208139,47,96,0.71,0,0
+1000,Healthcare,Small,India,Referral,0,1,81017,144,10,0.55,0,0
+1001,Banking,Small,North America,Partner,1,1,296076,28,54,0.7,0,0
+1002,Banking,Mid,Europe,Referral,1,2,31360,15,78,0.54,0,0
+1003,Banking,Mid,APAC,Website,0,3,326991,104,79,0.36,0,0
+1004,Banking,Small,North America,Partner,0,1,100365,200,61,0.99,0,0
+1005,Retail,Mid,India,Website,0,5,95468,103,47,0.39,1,1
+1006,Retail,Enterprise,India,Referral,0,3,267137,158,55,0.35,0,1
+1007,Manufacturing,Mid,APAC,Cold Call,0,3,311075,221,75,0.91,1,0
+1008,IT Services,Mid,Europe,Marketing Campaign,0,5,65823,104,113,0.51,0,0
+1009,Banking,Enterprise,APAC,Website,1,4,310176,189,96,0.76,1,0
+1010,Manufacturing,Small,North America,Referral,0,5,256991,186,38,0.53,1,1
+1011,IT Services,Mid,APAC,Partner,0,5,222498,222,24,0.57,0,0
+1012,Healthcare,Enterprise,India,Website,1,4,28807,28,28,0.48,0,0
+1013,Retail,Small,North America,Website,0,4,414983,235,71,0.54,0,1
+1014,IT Services,Mid,India,Marketing Campaign,0,4,149143,166,91,0.59,1,0
+1015,Healthcare,Mid,Europe,Referral,0,4,63413,125,67,0.8,1,0
+1016,IT Services,Mid,India,Cold Call,0,4,167221,197,110,0.66,1,0
+1017,Retail,Mid,India,Partner,0,5,25540,157,62,0.96,0,0
+1018,Retail,Enterprise,APAC,Referral,1,2,242284,97,78,0.33,0,0
+1019,Manufacturing,Enterprise,India,Partner,0,2,80248,86,52,0.65,1,0
+1020,Banking,Small,North America,Website,0,1,262515,176,51,0.71,0,1
+1021,IT Services,Enterprise,North America,Marketing Campaign,1,2,232809,144,20,0.94,0,0
+1022,IT Services,Small,Europe,Marketing Campaign,0,2,120494,41,2,0.33,0,0
+1023,Healthcare,Small,North America,Cold Call,1,5,259643,88,41,0.7,1,0
+1024,Retail,Mid,APAC,Marketing Campaign,1,4,95435,113,33,0.9,0,1
+1025,IT Services,Mid,Europe,Website,0,4,29787,229,23,0.47,0,0
+1026,Retail,Mid,North America,Cold Call,1,5,293126,86,113,0.91,0,0
+1027,IT Services,Enterprise,APAC,Referral,0,2,260768,234,94,0.31,1,0
+1028,Manufacturing,Mid,North America,Marketing Campaign,1,5,32606,37,67,0.81,0,1
+1029,Banking,Mid,North America,Cold Call,0,1,268632,82,41,0.95,0,0
+1030,IT Services,Small,India,Website,1,4,413366,156,39,0.76,0,0
+1031,Retail,Enterprise,North America,Partner,1,3,489145,205,49,0.61,1,0
+1032,Manufacturing,Enterprise,North America,Partner,0,1,258495,131,56,0.33,1,1
+1033,IT Services,Enterprise,APAC,Website,0,1,243867,120,76,0.94,1,0
+1034,Healthcare,Small,APAC,Website,1,5,122223,107,82,0.63,0,0
+1035,Banking,Small,India,Partner,1,2,56936,79,56,0.32,1,1
+1036,IT Services,Small,North America,Cold Call,0,4,103286,82,52,0.78,0,1
+1037,Manufacturing,Small,India,Partner,1,3,411809,142,108,0.64,0,0
+1038,Healthcare,Small,North America,Website,0,1,420574,77,61,0.39,0,1
+1039,Manufacturing,Enterprise,Europe,Marketing Campaign,0,3,485359,238,9,0.45,0,0
+1040,Manufacturing,Mid,Europe,Referral,0,2,47381,239,87,0.35,1,0
+1041,Healthcare,Small,India,Marketing Campaign,0,2,393609,127,69,0.7,0,1
+1042,Manufacturing,Small,India,Marketing Campaign,1,3,493563,104,76,0.74,0,0
+1043,Healthcare,Small,India,Website,0,4,300218,95,73,0.65,0,0
+1044,IT Services,Small,APAC,Partner,1,2,423811,117,10,0.87,0,0
+1045,Healthcare,Small,APAC,Cold Call,0,3,54194,229,91,0.9,0,0
+1046,Healthcare,Small,APAC,Marketing Campaign,0,1,190449,206,3,0.73,0,0
+1047,Banking,Enterprise,India,Partner,0,3,298997,174,81,0.31,0,0
+1048,Healthcare,Enterprise,North America,Cold Call,0,3,345863,130,96,0.79,0,1
+1049,Healthcare,Small,Europe,Marketing Campaign,0,5,161733,221,71,0.59,0,0
+1050,IT Services,Mid,India,Cold Call,0,2,191565,27,118,0.7,1,0
+1051,Banking,Enterprise,APAC,Partner,0,4,128724,208,86,0.75,0,1
+1052,Retail,Small,APAC,Referral,0,4,247777,138,91,0.55,1,0
+1053,IT Services,Small,India,Partner,0,5,177567,161,60,0.94,1,0
+1054,IT Services,Enterprise,India,Website,0,4,23703,166,20,0.39,1,0
+1055,Retail,Small,APAC,Cold Call,1,3,456296,102,29,0.77,0,0
+1056,Healthcare,Mid,North America,Referral,1,5,434031,25,73,0.3,0,0
+1057,Manufacturing,Mid,APAC,Cold Call,0,1,432781,201,15,0.95,1,0
+1058,Banking,Small,APAC,Cold Call,0,2,466537,228,25,0.38,0,0
+1059,Manufacturing,Small,India,Marketing Campaign,0,2,389635,29,113,0.37,0,0
+1060,Retail,Enterprise,North America,Website,1,2,68453,24,45,0.53,0,0
+1061,IT Services,Small,APAC,Cold Call,0,3,98478,55,102,0.56,0,1
+1062,IT Services,Small,APAC,Partner,0,1,305305,169,57,0.45,1,1
+1063,Banking,Mid,Europe,Partner,0,5,197063,202,91,0.71,0,0
+1064,IT Services,Mid,India,Marketing Campaign,0,5,386440,87,96,0.61,0,0
+1065,IT Services,Small,Europe,Website,0,2,248411,66,52,0.32,0,1
+1066,Banking,Enterprise,Europe,Website,1,1,412932,142,33,0.52,0,0
+1067,Banking,Small,APAC,Partner,0,1,305493,42,51,0.87,0,1
+1068,Retail,Enterprise,India,Referral,0,1,57098,79,42,0.78,0,0
+1069,IT Services,Enterprise,North America,Marketing Campaign,0,4,380579,31,67,0.81,1,1
+1070,IT Services,Mid,APAC,Marketing Campaign,0,4,403348,109,26,0.79,0,0
+1071,Retail,Mid,North America,Partner,1,2,61990,186,117,0.52,1,0
+1072,Healthcare,Enterprise,North America,Partner,0,1,341065,152,109,0.37,0,0
+1073,Healthcare,Small,India,Referral,1,1,177610,77,62,0.49,0,0
+1074,Healthcare,Mid,Europe,Referral,0,5,110572,235,67,0.88,0,0
+1075,Retail,Small,India,Website,0,5,246981,224,43,0.99,0,0
+1076,IT Services,Small,North America,Marketing Campaign,1,2,279357,189,66,0.65,1,0
+1077,Retail,Small,APAC,Marketing Campaign,0,1,134693,52,37,0.31,1,0
+1078,Retail,Enterprise,North America,Partner,1,2,185295,84,77,0.4,0,0
+1079,Healthcare,Enterprise,APAC,Website,0,5,363799,118,10,0.53,0,0
+1080,Manufacturing,Small,APAC,Marketing Campaign,1,5,271498,218,37,0.71,1,0
+1081,IT Services,Small,India,Website,0,4,340515,67,106,0.35,0,0
+1082,Healthcare,Mid,North America,Website,0,2,78274,220,93,0.96,0,0
+1083,Manufacturing,Mid,Europe,Partner,1,2,379997,186,39,0.56,1,0
+1084,Manufacturing,Small,North America,Website,1,1,276278,133,34,0.94,0,0
+1085,Banking,Mid,North America,Referral,1,1,363572,88,43,0.85,1,0
+1086,IT Services,Mid,Europe,Referral,1,4,49601,68,62,0.83,0,0
+1087,Manufacturing,Enterprise,India,Cold Call,1,3,346033,34,47,0.72,1,0
+1088,Healthcare,Small,North America,Partner,0,3,287834,93,87,0.74,0,0
+1089,Banking,Mid,North America,Cold Call,0,3,274053,45,90,0.75,0,1
+1090,IT Services,Mid,APAC,Referral,0,2,363383,149,62,0.74,0,0
+1091,Retail,Enterprise,North America,Cold Call,0,2,352176,72,19,0.69,0,0
+1092,Healthcare,Mid,Europe,Partner,0,5,22062,119,71,0.99,0,0
+1093,Manufacturing,Mid,APAC,Partner,0,2,347530,24,83,0.81,0,0
+1094,Manufacturing,Small,India,Website,0,2,234309,24,117,0.84,0,0
+1095,Healthcare,Enterprise,APAC,Marketing Campaign,1,2,175803,53,81,0.91,1,0
+1096,Manufacturing,Mid,Europe,Website,0,4,146225,170,16,0.45,0,1
+1097,Banking,Small,Europe,Partner,0,2,151553,172,49,0.36,0,1
+1098,IT Services,Mid,APAC,Referral,0,1,109270,51,73,0.64,0,1
+1099,Banking,Small,India,Referral,1,1,338569,133,14,0.66,0,0
+1100,Manufacturing,Small,APAC,Website,1,5,204672,81,44,0.88,0,0
+1101,Retail,Enterprise,India,Partner,0,4,94981,57,61,0.61,0,0
+1102,IT Services,Mid,APAC,Referral,0,1,475213,221,58,0.7,1,1
+1103,IT Services,Mid,Europe,Partner,0,4,114470,227,72,0.67,0,0
+1104,Healthcare,Small,North America,Referral,0,4,169277,66,18,0.33,0,0
+1105,Healthcare,Enterprise,North America,Partner,0,5,98887,115,51,0.73,1,0
+1106,Retail,Small,India,Cold Call,0,4,353686,70,33,0.88,1,0
+1107,IT Services,Small,India,Partner,0,2,447365,90,23,0.41,0,1
+1108,Retail,Enterprise,India,Partner,0,4,321256,82,56,0.72,1,0
+1109,Healthcare,Enterprise,Europe,Website,1,5,152012,151,116,0.72,0,0
+1110,Healthcare,Mid,APAC,Cold Call,1,5,331154,120,58,0.41,1,0
+1111,IT Services,Small,Europe,Marketing Campaign,0,5,217866,139,14,0.39,0,1
+1112,Banking,Enterprise,North America,Website,0,1,296629,106,48,0.99,0,0
+1113,Manufacturing,Mid,India,Marketing Campaign,0,2,99299,37,88,0.58,1,1
+1114,Healthcare,Enterprise,APAC,Referral,0,1,377728,205,63,0.46,0,0
+1115,Healthcare,Enterprise,North America,Marketing Campaign,1,3,404283,123,55,0.42,0,1
+1116,Banking,Small,North America,Partner,0,2,292751,75,30,0.77,0,0
+1117,Banking,Small,North America,Marketing Campaign,1,4,250491,182,23,0.73,0,0
+1118,Retail,Mid,Europe,Website,0,5,71597,58,66,0.75,0,0
+1119,Retail,Small,India,Website,1,3,267808,228,30,0.36,0,0
+1120,Manufacturing,Small,North America,Marketing Campaign,0,2,346698,166,49,0.93,0,0
+1121,Manufacturing,Enterprise,India,Website,1,1,451737,193,6,0.57,0,1
+1122,IT Services,Mid,Europe,Website,0,5,253554,200,36,0.52,0,0
+1123,Retail,Enterprise,North America,Marketing Campaign,0,1,287331,232,75,0.62,0,0
+1124,Healthcare,Mid,Europe,Cold Call,0,2,243983,236,84,0.57,0,0
+1125,Retail,Mid,Europe,Cold Call,0,2,276129,175,102,0.9,1,0
+1126,Healthcare,Small,India,Referral,1,3,184124,30,72,0.95,0,1
+1127,Banking,Small,North America,Website,1,4,160635,36,47,0.51,0,0
+1128,Retail,Small,Europe,Marketing Campaign,1,1,188394,71,36,0.9,1,1
+1129,Banking,Small,North America,Website,0,3,202317,76,46,0.85,1,1
+1130,Manufacturing,Enterprise,India,Partner,1,5,323658,121,14,0.95,0,0
+1131,Manufacturing,Small,Europe,Website,0,4,290752,224,11,0.47,1,0
+1132,IT Services,Mid,India,Website,0,3,470478,85,67,0.7,0,1
+1133,Retail,Small,North America,Cold Call,0,1,495334,104,71,0.49,1,0
+1134,Banking,Small,North America,Marketing Campaign,0,2,343471,86,73,0.88,0,0
+1135,Healthcare,Mid,India,Website,0,5,198297,84,101,0.3,0,0
+1136,Manufacturing,Small,APAC,Cold Call,0,1,477210,44,26,0.7,0,0
+1137,Manufacturing,Small,Europe,Referral,0,4,262773,117,45,0.54,1,1
+1138,Healthcare,Small,North America,Cold Call,1,4,289365,165,61,0.53,0,0
+1139,Banking,Small,North America,Cold Call,0,2,320650,46,48,0.75,0,0
+1140,Banking,Enterprise,Europe,Cold Call,0,2,293112,100,41,0.9,0,1
+1141,Retail,Small,India,Website,0,5,399821,71,8,0.73,1,1
+1142,Retail,Small,India,Website,0,5,223678,123,47,0.9,1,0
+1143,IT Services,Mid,India,Referral,0,2,431153,23,24,0.49,0,1
+1144,Manufacturing,Small,APAC,Partner,0,2,465651,45,84,0.66,0,0
+1145,Retail,Enterprise,APAC,Partner,0,4,190580,85,47,0.62,0,1
+1146,Banking,Mid,North America,Partner,1,2,271776,151,87,0.31,0,0
+1147,Healthcare,Mid,India,Referral,0,3,182903,27,14,0.69,1,0
+1148,Banking,Mid,Europe,Partner,1,1,446149,200,22,0.76,0,0
+1149,Manufacturing,Small,North America,Partner,0,2,450523,145,2,0.71,0,0
+1150,Banking,Mid,Europe,Cold Call,0,5,189412,49,20,0.82,0,1
+1151,IT Services,Small,North America,Website,1,3,112951,239,61,0.7,0,0
+1152,Manufacturing,Enterprise,APAC,Website,0,5,380450,35,34,0.35,0,1
+1153,Healthcare,Small,North America,Cold Call,0,3,489554,78,5,0.38,0,1
+1154,IT Services,Mid,APAC,Cold Call,1,2,315745,109,107,0.72,0,0
+1155,Manufacturing,Mid,North America,Cold Call,0,1,217028,194,4,0.49,0,1
+1156,Healthcare,Small,India,Website,1,5,82178,48,92,0.36,0,0
+1157,IT Services,Small,Europe,Partner,0,3,226383,238,53,0.6,0,1
+1158,IT Services,Mid,India,Cold Call,1,4,169826,135,106,0.69,0,0
+1159,Manufacturing,Enterprise,North America,Referral,0,2,446526,177,100,0.53,1,0
+1160,Retail,Small,North America,Cold Call,0,1,79893,29,29,0.8,0,0
+1161,IT Services,Enterprise,North America,Marketing Campaign,0,2,358943,134,71,0.75,0,0
+1162,IT Services,Enterprise,APAC,Cold Call,0,4,320511,110,71,0.53,1,0
+1163,Healthcare,Enterprise,Europe,Website,0,1,285345,20,56,0.83,0,0
+1164,Banking,Small,Europe,Cold Call,0,4,405955,123,58,0.75,0,1
+1165,Manufacturing,Mid,North America,Marketing Campaign,0,2,285375,227,109,0.75,0,0
+1166,Manufacturing,Small,North America,Referral,0,3,266682,111,88,0.69,0,0
+1167,Retail,Enterprise,APAC,Partner,0,2,248886,46,98,0.31,0,0
+1168,Retail,Mid,India,Cold Call,1,2,445711,194,17,0.79,0,0
+1169,Manufacturing,Small,India,Marketing Campaign,0,2,424384,97,25,0.56,1,0
+1170,Retail,Mid,Europe,Marketing Campaign,0,5,435840,239,70,0.96,1,1
+1171,Healthcare,Small,APAC,Referral,0,4,151707,170,42,0.87,0,1
+1172,Manufacturing,Enterprise,North America,Website,0,4,19964,237,107,0.71,0,0
+1173,Retail,Enterprise,Europe,Cold Call,1,4,431001,227,78,0.48,0,0
+1174,Manufacturing,Mid,APAC,Marketing Campaign,0,5,236118,132,48,0.44,0,0
+1175,Banking,Small,India,Referral,1,3,223869,206,77,0.54,0,0
+1176,IT Services,Mid,APAC,Partner,0,2,225862,93,70,0.63,1,0
+1177,Manufacturing,Small,India,Marketing Campaign,1,3,218000,92,102,0.51,0,1
+1178,IT Services,Small,APAC,Referral,0,5,22336,161,32,0.66,1,0
+1179,Retail,Enterprise,Europe,Website,1,4,349619,121,93,0.42,1,1
+1180,IT Services,Small,India,Website,0,2,430628,140,93,0.98,1,0
+1181,Manufacturing,Small,Europe,Marketing Campaign,0,1,92212,29,31,0.38,0,0
+1182,Banking,Enterprise,Europe,Marketing Campaign,0,1,347523,148,19,0.95,0,0
+1183,Retail,Small,India,Cold Call,0,3,55591,87,45,0.94,0,0
+1184,Manufacturing,Small,India,Referral,1,4,333894,115,28,0.67,0,0
+1185,Retail,Enterprise,North America,Marketing Campaign,0,1,362792,226,100,0.81,0,1
+1186,Healthcare,Small,North America,Cold Call,0,3,368278,112,27,0.61,0,0
+1187,IT Services,Enterprise,North America,Cold Call,1,5,438670,180,104,0.74,0,1
+1188,Healthcare,Enterprise,Europe,Marketing Campaign,0,3,108537,40,114,0.54,0,0
+1189,Manufacturing,Enterprise,Europe,Website,1,3,334816,224,116,0.51,1,0
+1190,Banking,Mid,North America,Referral,1,3,299372,106,61,0.7,0,0
+1191,Retail,Small,Europe,Referral,0,2,24429,139,19,0.65,0,0
+1192,IT Services,Small,Europe,Website,1,3,94294,193,98,0.71,0,0
+1193,Retail,Enterprise,India,Marketing Campaign,0,3,471024,87,90,0.5,1,0
+1194,Manufacturing,Enterprise,India,Referral,0,2,486102,238,57,0.56,0,0
+1195,Retail,Mid,Europe,Marketing Campaign,0,2,387721,137,32,0.36,0,0
+1196,IT Services,Small,North America,Marketing Campaign,0,5,194087,67,102,0.34,0,0
+1197,Manufacturing,Small,APAC,Cold Call,1,4,360218,198,60,0.48,1,0
+1198,Retail,Small,North America,Website,1,1,341080,201,3,0.35,1,0
+1199,Banking,Mid,APAC,Marketing Campaign,0,1,221979,212,98,0.37,0,1
+1200,Manufacturing,Mid,North America,Partner,0,3,329522,92,40,0.87,0,0
